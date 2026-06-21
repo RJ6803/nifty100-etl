@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Database files
+*.db
+
+# CSV outputs
+src/features/company_kpis.csv
+src/features/company_growth.csv
+src/features/final_company_features.csv
+
+# OS files
+.DS_Store
+Thumbs.db
