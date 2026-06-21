@@ -1,0 +1,5 @@
+rule,severity,table,message
+DQ06,WARNING,profitandloss,231 invalid OPM values
+DQ07,WARNING,profitandloss,5 missing EPS values
+DQ11,WARNING,cashflow,2 missing cash flow values
+DQ14,CRITICAL,profitandloss,99 invalid company ids
