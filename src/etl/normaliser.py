@@ -1,19 +1,34 @@
+import re
+
 def normalize_year(year):
     """
-    Normalize year formats to YYYY.
+    Convert various year formats into YYYY integer.
+    Examples:
+    FY22       -> 2022
+    22         -> 2022
+    Dec 2012   -> 2012
+    Mar 2023   -> 2023
+    2021       -> 2021
     """
-    year = str(year)
 
-    if "FY" in year:
-        year = year.replace("FY", "")
+    year = str(year).strip()
 
-    if "-" in year:
-        year = year.split("-")[1]
+    # FY22 -> 22
+    year = year.replace("FY", "")
 
-    if len(year) == 2:
-        year = "20" + year
+    # Search for a 4-digit year
+    match = re.search(r"\d{4}", year)
 
-    return int(year)
+    if match:
+        return int(match.group())
+
+    # Handle two-digit years
+    match = re.search(r"\d{2}", year)
+
+    if match:
+        return int("20" + match.group())
+
+    return None
 
 
 def normalize_ticker(ticker):
