@@ -78,5 +78,18 @@ growth_df.to_csv(
     index=False
     )
 
+conn = sqlite3.connect("data/nifty100.db")
+
+growth_df.to_sql(
+    "company_growth",
+    conn,
+    if_exists="replace",
+    index=False
+)
+
+conn.close()
+
+print("company_growth table written to SQLite.")
+
 print(growth_df.head())
 print("\ncompany_growth.csv created successfully!")

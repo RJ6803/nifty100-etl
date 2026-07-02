@@ -28,6 +28,25 @@ pl["year_num"] = pd.to_numeric(
 # Remove rows where year could not be extracted
 pl = pl.dropna(subset=["year_num"])
 
+# -------------------------
+# Normalize balance_sheet year
+# -------------------------
+
+bs["year_num"] = (
+    bs["year"]
+      .astype(str)
+      .str.extract(r'(\d{4})')[0]
+)
+
+bs["year_num"] = pd.to_numeric(
+    bs["year_num"],
+    errors="coerce"
+)
+
+bs = bs.dropna(subset=["year_num"])
+
+bs["year_num"] = bs["year_num"].astype(int)
+
 # Convert to integer
 pl["year_num"] = pl["year_num"].astype(int)
 
@@ -39,7 +58,7 @@ latest_pl = (
 )
 
 latest_bs = (
-    bs.sort_values("year")
+    bs.sort_values("year_num")
       .groupby("company_id")
       .tail(1)
 )
@@ -86,10 +105,18 @@ kpi_df = kpi_df[
 ]
 
 # Save CSV
-kpi_df.to_csv(
-    "src/features/company_kpis.csv",
+conn = sqlite3.connect("data/nifty100.db")
+
+kpi_df.to_sql(
+    "company_kpis",
+    conn,
+    if_exists="replace",
     index=False
 )
+
+conn.close()
+
+print("company_kpis table written to SQLite.")
 
 print(kpi_df.head())
 print("\ncompany_kpis.csv created successfully!")

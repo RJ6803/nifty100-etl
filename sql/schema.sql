@@ -209,3 +209,4 @@ CREATE TABLE load_audit (
     rows_loaded INTEGER,
     rejections INTEGER
 );
+

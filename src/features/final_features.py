@@ -1,4 +1,5 @@
 import pandas as pd
+import sqlite3
 
 # Load previous outputs
 
@@ -41,6 +42,19 @@ final_df.to_csv(
 "src/features/final_company_features.csv",
 index=False
 )
+
+conn = sqlite3.connect("data/nifty100.db")
+
+final_df.to_sql(
+    "final_company_features",
+    conn,
+    if_exists="replace",
+    index=False
+)
+
+conn.close()
+
+print("final_company_features table written to SQLite.")
 
 print(final_df.head())
 print("\nfinal_company_features.csv created successfully!")
