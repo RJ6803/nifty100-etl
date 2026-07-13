@@ -47,6 +47,18 @@ financial = profit_loss.merge(
     suffixes=("_pl", "_bs")
 )
 
+print(
+    financial[
+        [
+            "company_id",
+            "year",
+            "net_profit",
+            "equity_capital",
+            "reserves"
+        ]
+    ].head(20)
+)
+
 financial = financial.merge(
     cashflow,
     on=["company_id", "year"],
@@ -74,7 +86,25 @@ financial = financial.merge(
 
 )
 
+sectors = pd.read_excel(
+    "data/raw/sectors.xlsx"
+)[
+    [
+        "company_id",
+        "broad_sector",
+        "sub_sector"
+    ]
+]
 
+financial = financial.merge(
+    sectors,
+    on="company_id",
+    how="left"
+)
+
+print(financial.columns.tolist())
+
+financial["return_on_equity_pct"] = financial["roe_percentage"]
 
 # KPI Calculations
 
@@ -88,11 +118,21 @@ financial["operating_profit_margin_pct"] = (
     financial["operating_profit"] / financial["sales"] * 100
 )
 
-# Return on Equity
-financial["return_on_equity_pct"] = (
-    financial["net_profit"] /
-    (financial["equity_capital"] + financial["reserves"])
-) * 100
+print("\n===== DEBUG TCS ROE =====")
+
+print(
+    financial.loc[
+        financial["company_id"] == "TCS",
+        [
+            "company_id",
+            "year",
+            "net_profit",
+            "equity_capital",
+            "reserves",
+            "return_on_equity_pct",
+        ],
+    ].tail()
+)
 
 # Debt to Equity
 financial["debt_to_equity"] = (
@@ -138,6 +178,31 @@ financial["dividend_payout_ratio_pct"] = financial["dividend_payout"]
 # Total Debt
 financial["total_debt_cr"] = financial["borrowings"]
 
+
+# Return on Capital Employed (ROCE)
+financial["return_on_capital_employed_pct"] = (
+    financial["roce_percentage"]
+)
+
+# CFO / PAT Ratio
+financial["cfo_pat_ratio"] = financial.apply(
+    lambda row:
+    None
+    if row["net_profit"] == 0
+    else row["cash_from_operations_cr"] / row["net_profit"],
+    axis=1
+)
+
+# Free Cash Flow Positive Flag
+financial["fcf_positive_flag"] = (
+    financial["free_cash_flow_cr"] > 0
+).astype(int)
+
+# Temporary FCF Growth Score
+financial["fcf_growth_score"] = (
+    financial["free_cash_flow_cr"]
+)
+
 # Revenue CAGR
 financial["revenue_cagr_5yr"] = financial["revenue_cagr_5yr"]
 
@@ -150,22 +215,142 @@ financial["eps_cagr_5yr"] = financial["eps_cagr_5yr"]
 
 
 
-# Composite Quality Score
+# NORMALIZE KPI VALUES (0-100)
 
-financial["composite_quality_score"] = (
-    financial[
-        [
-            "return_on_equity_pct",
-            "net_profit_margin_pct",
-            "asset_turnover"
-        ]
-    ]
-    .fillna(0)
-    .mean(axis=1)
+def normalize(series):
+    s = series.copy()
+
+    # Ignore missing values
+    valid = s.dropna()
+
+    if len(valid) == 0:
+        return pd.Series(0, index=s.index)
+
+    p10 = valid.quantile(0.10)
+    p90 = valid.quantile(0.90)
+
+    # Winsorize
+    s = s.clip(lower=p10, upper=p90)
+
+    minimum = s.min()
+    maximum = s.max()
+
+    if maximum == minimum:
+        return pd.Series(50, index=s.index)
+
+    return ((s - minimum) / (maximum - minimum)) * 100
+
+def normalize_by_sector(df, value_column):
+    return (
+        df.groupby("broad_sector")[value_column]
+          .transform(lambda s: normalize(s))
+    )
+
+print(financial.columns.tolist())
+
+print(financial[["company_id"]].head())
+
+financial["roe_score"] = normalize_by_sector(
+    financial,
+    "return_on_equity_pct"
+).fillna(50)
+
+financial["roce_score"] = normalize_by_sector(
+    financial,
+    "return_on_capital_employed_pct"
+).fillna(50)
+
+financial["npm_score"] = normalize_by_sector(
+    financial,
+    "net_profit_margin_pct"
+).fillna(50)
+
+financial["fcf_score"] = normalize_by_sector(
+    financial,
+    "fcf_growth_score"
+).fillna(50)
+
+financial["cfo_pat_score"] = normalize_by_sector(
+    financial,
+    "cfo_pat_ratio"
+).fillna(50)
+
+financial["revenue_growth_score"] = normalize_by_sector(
+    financial,
+    "revenue_cagr_5yr"
+).fillna(50)
+
+financial["pat_growth_score"] = normalize_by_sector(
+    financial,
+    "pat_cagr_5yr"
+).fillna(50)
+
+financial["de_score"] = (
+    100 - normalize_by_sector(
+        financial,
+        "debt_to_equity"
+    )
+).fillna(50)
+
+financial["interest_score"] = normalize_by_sector(
+    financial,
+    "interest_coverage"
+).fillna(50)
+
+financial["profitability_score"] = (
+      financial["roe_score"] * (15/35)
+    + financial["roce_score"] * (10/35)
+    + financial["npm_score"] * (10/35)
 )
 
+financial["cash_quality_score"] = (
+      financial["fcf_score"] * 0.50
+    + financial["cfo_pat_score"] * 0.33
+    + financial["fcf_positive_flag"] * 100 * 0.17
+)
 
+financial["growth_score"] = (
+      financial["revenue_growth_score"] * 0.50
+    + financial["pat_growth_score"] * 0.50
+)
 
+financial["leverage_score"] = (
+      financial["de_score"] * (10/15)
+    + financial["interest_score"] * (5/15)
+)
+
+financial["profitability_score"] = (
+    financial["profitability_score"]
+    .fillna(50)
+)
+
+financial["cash_quality_score"] = (
+    financial["cash_quality_score"]
+    .fillna(50)
+)
+
+financial["growth_score"] = (
+    financial["growth_score"]
+    .fillna(50)
+)
+
+financial["leverage_score"] = (
+    financial["leverage_score"]
+    .fillna(50)
+)
+
+financial["composite_quality_score"] = (
+      financial["profitability_score"] * 0.35
+    + financial["cash_quality_score"] * 0.30
+    + financial["growth_score"] * 0.20
+    + financial["leverage_score"] * 0.15
+)
+
+financial["composite_quality_score"] = (
+    financial["composite_quality_score"]
+    .fillna(50)
+    .round(2)
+)
 
 # Final Financial Ratios Table
 
@@ -193,6 +378,10 @@ financial_ratios = financial[
         "revenue_cagr_5yr",
         "pat_cagr_5yr",
         "eps_cagr_5yr",
+
+        "return_on_capital_employed_pct",
+        "cfo_pat_ratio",
+        "fcf_positive_flag",
 
         "composite_quality_score"
     ]
