@@ -400,16 +400,6 @@ Current status
 
 ---
 
-# 👨‍💻 Developed By
-
-**RJ**
-
-Computer Science Engineering
-
-Financial Analytics & Data Engineering Project
-
----
-
 # 📄 License
 
 This project is developed for educational and academic purposes.
