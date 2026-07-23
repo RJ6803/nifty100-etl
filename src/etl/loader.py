@@ -49,6 +49,8 @@ def load_cashflow():
         "net_cash_flow"
     ]
 )
+    print("Total rows:", len(cf))
+    print(cf[cf["company_id"] == "ATGL"])
 
     return cf
 

@@ -110,11 +110,23 @@ df = financial_ratios.merge(
     how="left"
 )
 
-df = df.merge(
+merged = df.merge(
     sectors,
     on="company_id",
-    how="left"
+    how="left",
+    indicator=True
 )
+
+print(merged["_merge"].value_counts())
+
+print(
+    merged.loc[
+        merged["_merge"] != "both",
+        ["company_id", "_merge"]
+    ]
+)
+
+df = merged.drop(columns="_merge")
 
 df = df.merge(
     roce_df[

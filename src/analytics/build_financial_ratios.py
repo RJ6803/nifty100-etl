@@ -19,10 +19,40 @@ balance_sheet = pd.read_sql(
     "SELECT * FROM balance_sheet",
     conn
 )
+balance_sheet_latest = balance_sheet.copy()
+
+balance_sheet_latest["year_num"] = (
+    pd.to_numeric(balance_sheet_latest["year"], errors="coerce")
+)
+
+balance_sheet_latest = (
+    balance_sheet_latest
+        .sort_values("year_num")
+        .groupby("company_id", as_index=False)
+        .tail(1)
+)
+
+balance_sheet_latest = balance_sheet_latest.drop(columns=["year_num"])
+
+
 
 cashflow = pd.read_sql(
     "SELECT * FROM cashflow",
     conn
+)
+
+cashflow_latest = cashflow.copy()
+
+cashflow_latest["year_num"] = pd.to_numeric(
+    cashflow_latest["year"],
+    errors="coerce"
+)
+
+cashflow_latest = (
+    cashflow_latest
+    .sort_values("year_num")
+    .groupby("company_id")
+    .tail(1)
 )
 
 companies = pd.read_sql(
@@ -31,7 +61,7 @@ companies = pd.read_sql(
 )
 
 company_cagr = pd.read_sql(
-    "SELECT * FROM company_cagr",
+    "SELECT * FROM company_growth",
     conn
 )
 
@@ -40,13 +70,52 @@ conn.close()
 
 # Merge Profit & Loss + Balance Sheet
 
-financial = profit_loss.merge(
+# -----------------------------
+# Separate Historical & TTM
+# -----------------------------
+
+historical_pl = profit_loss[
+    profit_loss["year"] != "TTM"
+].copy()
+
+ttm_pl = profit_loss[
+    profit_loss["year"] == "TTM"
+].copy()
+
+
+
+ttm_financial = ttm_pl.merge(
+    balance_sheet_latest.drop(columns=["year"]),
+    on="company_id",
+    how="left",
+    suffixes=("_pl", "_bs")
+)
+
+historical_financial = historical_pl.merge(
     balance_sheet,
     on=["company_id", "year"],
     how="left",
     suffixes=("_pl", "_bs")
 )
 
+
+
+historical_financial = historical_financial.merge(
+    cashflow,
+    on=["company_id","year"],
+    how="left"
+)
+
+ttm_financial = ttm_financial.merge(
+    cashflow_latest.drop(columns=["year","year_num"]),
+    on="company_id",
+    how="left"
+)
+
+financial = pd.concat(
+    [historical_financial, ttm_financial],
+    ignore_index=True
+)
 print(
     financial[
         [
@@ -59,12 +128,6 @@ print(
     ].head(20)
 )
 
-financial = financial.merge(
-    cashflow,
-    on=["company_id", "year"],
-    how="left"
-)
-
 
 # Merge CAGR
 
@@ -74,6 +137,13 @@ financial = financial.merge(
     how="left"
 )
 
+financial.rename(columns={
+    "sales_cagr": "revenue_cagr_5yr",
+    "profit_cagr": "pat_cagr_5yr"
+}, inplace=True)
+
+financial["eps_cagr_5yr"] = pd.NA
+
 
 # Merge Company Information
 
@@ -81,10 +151,10 @@ financial = financial.merge(
     companies,
     left_on="company_id",
     right_on="id",
-
-    how="left"
-
+    how="left",
+    suffixes=("", "_company")
 )
+print(financial[["company_id", "company_name"]].head())
 
 sectors = pd.read_excel(
     "data/raw/sectors.xlsx"
@@ -102,9 +172,46 @@ financial = financial.merge(
     how="left"
 )
 
+financial["broad_sector"] = (
+    financial["broad_sector"]
+    .fillna("Unknown")
+)
+
+financial["sub_sector"] = (
+    financial["sub_sector"]
+    .fillna("Unknown")
+)
+
 print(financial.columns.tolist())
 
-financial["return_on_equity_pct"] = financial["roe_percentage"]
+financial["shareholders_equity"] = (
+    financial["equity_capital"].fillna(0) +
+    financial["reserves"].fillna(0)
+)
+
+financial["return_on_equity_pct"] = financial.apply(
+    lambda r: None
+    if r["shareholders_equity"] <= 0
+    else (r["net_profit"] / r["shareholders_equity"]) * 100,
+    axis=1
+)
+
+required_columns = [
+    "sales",
+    "net_profit",
+    "operating_profit",
+    "equity_capital",
+    "reserves",
+    "borrowings",
+    "total_assets",
+    "operating_activity",
+    "investing_activity"
+]
+
+missing = [c for c in required_columns if c not in financial.columns]
+
+if missing:
+    raise Exception(f"Missing columns: {missing}")
 
 # KPI Calculations
 
@@ -135,23 +242,29 @@ print(
 )
 
 # Debt to Equity
-financial["debt_to_equity"] = (
-    financial["borrowings"] /
-    (financial["equity_capital"] + financial["reserves"])
+financial["debt_to_equity"] = financial.apply(
+    lambda r: None
+    if r["shareholders_equity"] <= 0
+    else r["borrowings"] / r["shareholders_equity"],
+    axis=1
 )
 
 # Interest Coverage
 financial["interest_coverage"] = financial.apply(
-    lambda row:
-    None if row["interest"] == 0
-    else (row["operating_profit"] + row["other_income"]) / row["interest"],
+    lambda r:
+    None
+    if pd.isna(r["interest"]) or r["interest"] <= 0
+    else (r["operating_profit"] + r["other_income"]) / r["interest"],
     axis=1
 )
 
 # Asset Turnover
-financial["asset_turnover"] = (
-    financial["sales"] /
-    financial["total_assets"]
+financial["asset_turnover"] = financial.apply(
+    lambda r:
+    None
+    if pd.isna(r["total_assets"]) or r["total_assets"] <= 0
+    else r["sales"] / r["total_assets"],
+    axis=1
 )
 
 # Free Cash Flow
@@ -180,16 +293,25 @@ financial["total_debt_cr"] = financial["borrowings"]
 
 
 # Return on Capital Employed (ROCE)
-financial["return_on_capital_employed_pct"] = (
-    financial["roce_percentage"]
+financial["capital_employed"] = (
+    financial["shareholders_equity"] +
+    financial["borrowings"].fillna(0)
+)
+
+financial["return_on_capital_employed_pct"] = financial.apply(
+    lambda r:
+    None
+    if r["capital_employed"] <= 0
+    else (r["operating_profit"] / r["capital_employed"]) * 100,
+    axis=1
 )
 
 # CFO / PAT Ratio
 financial["cfo_pat_ratio"] = financial.apply(
-    lambda row:
+    lambda r:
     None
-    if row["net_profit"] == 0
-    else row["cash_from_operations_cr"] / row["net_profit"],
+    if pd.isna(r["net_profit"]) or r["net_profit"] == 0
+    else r["operating_activity"] / r["net_profit"],
     axis=1
 )
 
@@ -202,18 +324,6 @@ financial["fcf_positive_flag"] = (
 financial["fcf_growth_score"] = (
     financial["free_cash_flow_cr"]
 )
-
-# Revenue CAGR
-financial["revenue_cagr_5yr"] = financial["revenue_cagr_5yr"]
-
-# PAT CAGR
-financial["pat_cagr_5yr"] = financial["pat_cagr_5yr"]
-
-# EPS CAGR
-financial["eps_cagr_5yr"] = financial["eps_cagr_5yr"]
-
-
-
 
 # NORMALIZE KPI VALUES (0-100)
 
@@ -405,9 +515,6 @@ conn.commit()
 conn.close()
 
 print("financial_ratios table written successfully!")
-
-
-
 
 # Export CSV
 

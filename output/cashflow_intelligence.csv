@@ -1,0 +1,1264 @@
+company_id,year,free_cash_flow_cr,cash_from_operations_cr,cfo_pat_ratio,fcf_positive_flag,cash_quality_score,cash_quality_label,cash_conversion_label,cashflow_trend,cashflow_insight
+ABB,Dec 2012,42.0,101.0,0.696551724137931,1,71.68,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+ABB,Mar 2014,11.0,155.0,0.7828282828282829,1,74.78,Moderate,Weak,Declining,Cash flow profile remains stable.
+ABB,Mar 2015,28.0,215.0,0.9388646288209607,1,80.61,Strong,Good,Improving,Cash flow profile remains stable.
+ABB,Mar 2016,172.0,249.0,0.9764705882352941,1,82.0,Strong,Good,Improving,Cash flow profile remains stable.
+ABB,Mar 2017,152.0,307.0,1.108303249097473,1,87.3,Strong,Good,Declining,Cash flow profile remains stable.
+ABB,Mar 2018,-62.0,153.0,0.38154613466334164,0,29.13,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ABB,Mar 2019,242.0,499.0,1.1088888888888888,1,88.03,Strong,Good,Improving,Cash flow profile remains stable.
+ABB,Mar 2020,225.0,626.0,1.0556492411467115,1,85.14,Strong,Good,Declining,Cash flow profile remains stable.
+ABB,Mar 2021,655.0,727.0,1.0520984081041969,1,85.2,Strong,Good,Improving,Cash flow profile remains stable.
+ABB,Mar 2022,552.0,948.0,1.1864831038798498,1,90.09,Strong,Good,Declining,Cash flow profile remains stable.
+ABB,Mar 2023,745.0,893.0,0.9409905163329821,1,81.73,Strong,Good,Improving,Cash flow profile remains stable.
+ABB,Mar 2024,797.0,1213.0,1.009991673605329,1,85.05,Strong,Good,Improving,Cash flow profile remains stable.
+ABB,TTM,797.0,1213.0,0.9439688715953307,1,82.93,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+ADANIENSOL,Mar 2014,0.0,0.0,,0,12.51,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+ADANIENSOL,Mar 2015,-1899.0,-35.0,5.0,0,77.18,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENSOL,Mar 2016,728.0,1544.0,4.195652173913044,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIENSOL,Mar 2017,459.0,2189.0,5.262019230769231,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENSOL,Mar 2018,-994.0,2198.0,1.9230096237970253,0,85.39,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENSOL,Mar 2019,-459.0,2591.0,4.635062611806798,0,81.13,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIENSOL,Mar 2020,-206.0,5437.0,7.701133144475921,0,82.74,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIENSOL,Mar 2021,-225.0,3784.0,2.933333333333333,0,82.65,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENSOL,Mar 2022,161.0,4097.0,3.3147249190938513,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIENSOL,Mar 2023,-922.0,3777.0,2.9484777517564402,0,80.86,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENSOL,Mar 2024,1095.0,6038.0,5.048494983277592,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIENSOL,TTM,1095.0,6038.0,10.251273344651953,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ADANIENT,Mar 2013,-7124.0,7666.0,6.293924466338259,0,76.56,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ADANIENT,Mar 2014,221.0,8228.0,3.109599395313681,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIENT,Mar 2015,-2933.0,8532.0,3.7127937336814623,0,78.19,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENT,Mar 2016,3287.0,5112.0,5.112,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIENT,Mar 2017,-686.0,774.0,0.8367567567567568,0,37.06,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+ADANIENT,Mar 2018,-4707.0,2942.0,4.952861952861953,0,78.24,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENT,Mar 2019,5723.0,3236.0,6.395256916996048,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIENT,Mar 2020,1372.0,2454.0,2.3596153846153847,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENT,Mar 2021,-4568.0,4043.0,3.8652007648183555,0,78.8,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENT,Mar 2022,-15656.0,1385.0,1.7576142131979695,0,67.35,Moderate,Excellent,Declining,Cash flow profile remains stable.
+ADANIENT,Mar 2023,2167.0,17626.0,7.277456647398844,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIENT,Mar 2024,-8455.0,10312.0,3.0920539730134933,0,76.68,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIENT,TTM,-8455.0,10312.0,1.694380545514295,0,65.59,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+ADANIGREEN,Mar 2017,-1483.0,28.0,-0.5957446808510638,0,6.48,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+ADANIGREEN,Mar 2018,-3779.0,649.0,-4.702898550724638,0,5.7,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ADANIGREEN,Mar 2019,-1041.0,1625.0,-3.4210526315789473,0,7.15,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+ADANIGREEN,Mar 2020,-1778.0,1965.0,-28.897058823529413,0,6.12,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ADANIGREEN,Mar 2021,-7536.0,1601.0,8.796703296703297,0,80.96,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIGREEN,Mar 2022,-15603.0,3127.0,6.394683026584867,0,84.37,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIGREEN,Mar 2023,3408.0,7265.0,7.466598150051388,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIGREEN,Mar 2024,-13347.0,7713.0,6.121428571428571,0,83.57,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIGREEN,TTM,-13347.0,7713.0,4.000518672199171,0,84.55,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ADANIPORTS,Mar 2013,-3757.0,1379.0,0.8413666870042709,0,42.72,Weak,Good,Stable,Weak cash generation with below-average cash conversion.
+ADANIPORTS,Mar 2014,-1378.0,1132.0,0.6502010338885698,0,37.29,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+ADANIPORTS,Mar 2015,572.0,3057.0,1.3154044750430292,1,93.64,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIPORTS,Mar 2016,-1772.0,2381.0,0.8336834733893558,0,43.37,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+ADANIPORTS,Mar 2017,1434.0,4063.0,1.0412608918503332,1,84.97,Strong,Good,Improving,Cash flow profile remains stable.
+ADANIPORTS,Mar 2018,1762.0,5608.0,1.5197831978319782,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIPORTS,Mar 2019,1661.0,6029.0,1.4904820766378244,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIPORTS,Mar 2020,6653.0,7402.0,1.9556142668428005,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIPORTS,Mar 2021,-6508.0,7556.0,1.4965339671222024,0,66.26,Moderate,Excellent,Declining,Cash flow profile remains stable.
+ADANIPORTS,Mar 2022,4927.0,10420.0,2.103775489602261,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIPORTS,Mar 2023,-4816.0,11900.0,2.2073826748284175,0,85.11,Strong,Excellent,Declining,Cash flow profile remains stable.
+ADANIPORTS,Mar 2024,8250.0,15018.0,1.8531589338598222,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIPORTS,TTM,8250.0,15018.0,1.5414143487632146,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ADANIPOWER,Mar 2013,-1063.0,3001.0,-1.3076252723311548,0,5.89,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+ADANIPOWER,Mar 2014,-1462.0,3238.0,-11.127147766323024,0,6.04,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ADANIPOWER,Mar 2015,1087.0,5824.0,-7.137254901960785,1,38.36,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+ADANIPOWER,Mar 2016,2565.0,5257.0,9.540834845735027,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIPOWER,Mar 2017,3513.0,4725.0,-0.7653061224489796,1,39.23,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+ADANIPOWER,Mar 2018,4581.0,5101.0,-2.425582501188778,1,39.25,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+ADANIPOWER,Mar 2019,4626.0,5610.0,-5.701219512195122,1,38.98,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+ADANIPOWER,Mar 2020,3294.0,5598.0,-2.4606593406593404,1,38.78,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ADANIPOWER,Mar 2021,4826.0,7014.0,5.522834645669291,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIPOWER,Mar 2022,11007.0,10233.0,2.0832654723127035,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ADANIPOWER,Mar 2023,9976.0,8431.0,0.7859606600167801,1,80.05,Strong,Weak,Declining,Cash flow profile remains stable.
+ADANIPOWER,Mar 2024,17651.0,14170.0,0.6803015027125642,1,81.13,Strong,Weak,Improving,Cash flow profile remains stable.
+ADANIPOWER,TTM,17651.0,14170.0,1.1169793473119976,1,95.77,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+AMBUJACEM,Dec 2012,1472.0,1860.0,1.4396284829721362,1,98.44,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+AMBUJACEM,Dec 2013,771.0,1267.0,0.9913928012519562,1,81.78,Strong,Good,Declining,Cash flow profile remains stable.
+AMBUJACEM,Dec 2014,1219.0,1675.0,1.1264290517821116,1,87.29,Strong,Good,Improving,Cash flow profile remains stable.
+AMBUJACEM,Dec 2015,1474.0,1557.0,1.926980198019802,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+AMBUJACEM,Dec 2016,-1355.0,2810.0,1.9595536959553697,0,81.39,Strong,Excellent,Declining,Cash flow profile remains stable.
+AMBUJACEM,Dec 2017,2678.0,3416.0,1.7562982005141388,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+AMBUJACEM,Dec 2018,938.0,1703.0,0.5728220652539522,1,66.23,Moderate,Weak,Declining,Cash flow profile remains stable.
+AMBUJACEM,Dec 2019,3548.0,4739.0,1.7028386633129715,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+AMBUJACEM,Dec 2020,3515.0,4832.0,1.5551979401351785,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+AMBUJACEM,Dec 2021,3302.0,5309.0,1.4306116949609269,1,98.78,Strong,Excellent,Declining,Cash flow profile remains stable.
+AMBUJACEM,Mar 2024,-3295.0,5646.0,1.1916420430561419,0,55.7,Moderate,Good,Declining,Cash flow profile remains stable.
+AMBUJACEM,Mar 2023 15,,,,0,16.01,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+AMBUJACEM,TTM,-3295.0,5646.0,1.458537845517954,0,63.97,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+APOLLOHOSP,Mar 2013,-290.0,443.0,1.462046204620462,0,60.3,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+APOLLOHOSP,Mar 2014,17.0,373.0,1.1841269841269841,1,81.97,Strong,Good,Improving,Cash flow profile remains stable.
+APOLLOHOSP,Mar 2015,-289.0,470.0,1.4029850746268657,0,56.95,Moderate,Excellent,Declining,Cash flow profile remains stable.
+APOLLOHOSP,Mar 2016,-291.0,597.0,2.5404255319148934,0,78.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+APOLLOHOSP,Mar 2017,-529.0,623.0,4.755725190839694,0,77.65,Strong,Excellent,Declining,Cash flow profile remains stable.
+APOLLOHOSP,Mar 2018,132.0,537.0,8.95,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+APOLLOHOSP,Mar 2019,194.0,905.0,4.525,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+APOLLOHOSP,Mar 2020,1004.0,1293.0,2.9930555555555554,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+APOLLOHOSP,Mar 2021,385.0,1265.0,9.233576642335766,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+APOLLOHOSP,Mar 2022,949.0,1696.0,1.5306859205776173,1,98.47,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+APOLLOHOSP,Mar 2023,520.0,1377.0,1.6315165876777251,1,99.33,Strong,Excellent,Declining,Cash flow profile remains stable.
+APOLLOHOSP,Mar 2024,383.0,1920.0,2.053475935828877,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+APOLLOHOSP,TTM,383.0,1920.0,1.5686274509803921,1,96.6,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ASIANPAINT,Mar 2013,724.0,1187.0,1.0232758620689655,1,87.62,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+ASIANPAINT,Mar 2014,816.0,1402.0,1.110055423594616,1,90.17,Strong,Good,Improving,Cash flow profile remains stable.
+ASIANPAINT,Mar 2015,723.0,1188.0,0.8325157673440785,1,80.2,Strong,Good,Declining,Cash flow profile remains stable.
+ASIANPAINT,Mar 2016,1377.0,2243.0,1.2440377149195785,1,95.22,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ASIANPAINT,Mar 2017,846.0,1527.0,0.7574404761904762,1,77.95,Strong,Weak,Declining,Cash flow profile remains stable.
+ASIANPAINT,Mar 2018,557.0,2113.0,1.0071496663489037,1,86.36,Strong,Good,Declining,Cash flow profile remains stable.
+ASIANPAINT,Mar 2019,1552.0,2470.0,1.118659420289855,1,89.08,Strong,Good,Improving,Cash flow profile remains stable.
+ASIANPAINT,Mar 2020,2520.0,3038.0,1.0951694304253785,1,89.9,Strong,Good,Improving,Cash flow profile remains stable.
+ASIANPAINT,Mar 2021,3142.0,3683.0,1.1484253196133458,1,92.13,Strong,Good,Improving,Cash flow profile remains stable.
+ASIANPAINT,Mar 2022,669.0,986.0,0.3196110210696921,1,60.22,Moderate,Weak,Declining,Cash flow profile remains stable.
+ASIANPAINT,Mar 2023,2911.0,4193.0,0.999523241954708,1,86.1,Strong,Good,Improving,Cash flow profile remains stable.
+ASIANPAINT,Mar 2024,3556.0,6104.0,1.0982367758186398,1,90.92,Strong,Good,Improving,Cash flow profile remains stable.
+ASIANPAINT,TTM,3556.0,6104.0,1.3180738501403584,1,97.41,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ATGL,Mar 2018,-711.0,277.0,1.7098765432098766,0,78.36,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ATGL,Mar 2019,1147.0,356.0,1.554585152838428,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ATGL,Mar 2020,31.0,492.0,1.128440366972477,1,96.27,Strong,Good,Declining,Cash flow profile remains stable.
+ATGL,Mar 2021,-116.0,654.0,1.4125269978401729,0,75.08,Strong,Excellent,Declining,Cash flow profile remains stable.
+ATGL,Mar 2022,-401.0,732.0,1.4381139489194499,0,74.61,Moderate,Excellent,Declining,Cash flow profile remains stable.
+ATGL,Mar 2023,-314.0,853.0,1.5622710622710623,0,77.1,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ATGL,Mar 2024,203.0,955.0,1.4296407185628743,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ATGL,TTM,203.0,955.0,1.4296407185628743,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+AXISBANK,Mar 2013,-8366.0,2573.0,0.4968140567677158,0,29.66,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+AXISBANK,Mar 2014,298.0,14464.0,2.326149887423609,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+AXISBANK,Mar 2015,-23134.0,-15162.0,-2.060614297363414,0,10.71,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+AXISBANK,Mar 2016,-25284.0,-34495.0,-4.19443093385214,0,9.7,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+AXISBANK,Mar 2017,19751.0,32209.0,8.754824680619734,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+AXISBANK,Mar 2018,-48397.0,-38390.0,-139.09420289855072,0,3.1,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+AXISBANK,Mar 2019,18451.0,37125.0,7.937780628608082,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+AXISBANK,Mar 2020,20931.0,30416.0,18.694529809465273,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+AXISBANK,Mar 2021,-41655.0,12633.0,1.9175774134790529,0,73.68,Moderate,Excellent,Declining,Cash flow profile remains stable.
+AXISBANK,Mar 2022,1025.0,28137.0,2.1602303262955855,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+AXISBANK,Mar 2023,-10276.0,22075.0,2.3042797494780793,0,79.27,Strong,Excellent,Declining,Cash flow profile remains stable.
+AXISBANK,Mar 2024,-14556.0,-5555.0,-0.2234423394071035,0,12.27,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+AXISBANK,TTM,-14556.0,-5555.0,-0.21052831046767226,0,12.44,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+BAJAJ-AUTO,Mar 2013,824.0,2218.0,0.7079476540057453,1,75.22,Strong,Weak,Stable,Cash flow remains consistently strong with stable operating performance.
+BAJAJ-AUTO,Mar 2014,1430.0,3502.0,1.036094674556213,1,87.19,Strong,Good,Improving,Cash flow profile remains stable.
+BAJAJ-AUTO,Mar 2015,1734.0,2114.0,0.6986120290812955,1,73.6,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BAJAJ-AUTO,Mar 2016,3622.0,3690.0,0.9086431913321842,1,83.75,Strong,Good,Improving,Cash flow profile remains stable.
+BAJAJ-AUTO,Mar 2017,-343.0,3267.0,0.8009316008825692,0,43.4,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+BAJAJ-AUTO,Mar 2018,2374.0,4328.0,1.0258355060440862,1,85.27,Strong,Good,Improving,Cash flow profile remains stable.
+BAJAJ-AUTO,Mar 2019,2214.0,2487.0,0.5046672077922078,1,66.23,Moderate,Weak,Declining,Cash flow profile remains stable.
+BAJAJ-AUTO,Mar 2020,5616.0,3850.0,0.7386799693016116,1,76.61,Strong,Weak,Improving,Cash flow profile remains stable.
+BAJAJ-AUTO,Mar 2021,251.0,3120.0,0.6423718344657195,1,69.04,Moderate,Weak,Declining,Cash flow profile remains stable.
+BAJAJ-AUTO,Mar 2022,4473.0,4197.0,0.6806681803438209,1,73.84,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BAJAJ-AUTO,Mar 2023,6488.0,5277.0,0.8707920792079208,1,80.62,Strong,Good,Improving,Cash flow profile remains stable.
+BAJAJ-AUTO,Mar 2024,6486.0,6558.0,0.8508043591074209,1,80.74,Strong,Good,Declining,Cash flow profile remains stable.
+BAJAJ-AUTO,TTM,6486.0,6558.0,0.8897028897028897,1,80.07,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+BAJAJFINSV,Mar 2013,-3969.0,-6922.0,-3.1264679313459802,0,21.39,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+BAJAJFINSV,Mar 2014,-6043.0,-9807.0,-4.476038338658147,0,20.15,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJFINSV,Mar 2015,-7022.0,-10731.0,-4.454545454545454,0,18.48,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJFINSV,Mar 2016,-10681.0,-9795.0,-3.5297297297297296,0,16.92,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJFINSV,Mar 2017,-10771.0,-10922.0,-3.165797101449275,0,17.23,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJFINSV,Mar 2018,-20502.0,-19580.0,-4.688697318007663,0,15.47,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJFINSV,Mar 2019,-33979.0,-27076.0,-5.038332713062895,0,14.48,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJFINSV,Mar 2020,-33317.0,-23369.0,-3.898732065398732,0,13.68,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+BAJAJFINSV,Mar 2021,863.0,4547.0,0.6172118908646668,1,71.92,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BAJAJFINSV,Mar 2022,-32225.0,-33670.0,-4.049795525619437,0,14.31,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJFINSV,Mar 2023,-53425.0,-39480.0,-3.2334152334152333,0,15.56,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJFINSV,Mar 2024,-79634.0,-68674.0,-4.403590894517474,0,15.02,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJFINSV,TTM,-79634.0,-68674.0,-4.157021791767554,0,14.52,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+BAJAJHLDNG,Mar 2013,104.0,473.0,0.2548491379310345,1,59.23,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+BAJAJHLDNG,Mar 2014,353.0,872.0,0.4386317907444668,1,65.35,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BAJAJHLDNG,Mar 2015,332.0,796.0,0.39231148348940365,1,63.33,Moderate,Weak,Declining,Cash flow profile remains stable.
+BAJAJHLDNG,Mar 2016,2166.0,1147.0,0.506401766004415,1,67.41,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BAJAJHLDNG,Mar 2017,-1295.0,-923.0,-0.3732308936514355,0,17.13,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJHLDNG,Mar 2018,508.0,1631.0,0.6143126177024482,1,69.88,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BAJAJHLDNG,Mar 2019,465.0,628.0,0.20603674540682415,1,55.7,Moderate,Weak,Declining,Cash flow profile remains stable.
+BAJAJHLDNG,Mar 2020,1120.0,1920.0,0.6233766233766234,1,71.16,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BAJAJHLDNG,Mar 2021,-36.0,272.0,0.07443897099069513,0,19.7,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJAJHLDNG,Mar 2022,1459.0,1610.0,0.39020843431895297,1,62.69,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BAJAJHLDNG,Mar 2023,1591.0,1728.0,0.3493732308936514,1,61.7,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BAJAJHLDNG,Mar 2024,1469.0,1941.0,0.26354378818737273,1,59.32,Moderate,Weak,Declining,Cash flow profile remains stable.
+BAJAJHLDNG,TTM,1469.0,1941.0,0.2592839967940155,1,58.88,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+BAJFINANCE,Mar 2015,-7424.0,-7064.0,-7.866369710467706,0,17.38,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+BAJFINANCE,Mar 2016,-10557.0,-9870.0,-7.716966379984362,0,16.96,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJFINANCE,Mar 2017,-13486.0,-10439.0,-5.685729847494553,0,17.96,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJFINANCE,Mar 2018,-19491.0,-20566.0,-8.239583333333334,0,17.56,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJFINANCE,Mar 2019,-34441.0,-29062.0,-7.27459324155194,0,17.45,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJFINANCE,Mar 2020,-33170.0,-24412.0,-4.637537993920972,0,16.99,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+BAJFINANCE,Mar 2021,-1236.0,-807.0,-0.18257918552036198,0,19.46,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+BAJFINANCE,Mar 2022,-30743.0,-37090.0,-5.277461582242458,0,16.48,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJFINANCE,Mar 2023,-52506.0,-42112.0,-3.659367396593674,0,18.11,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJFINANCE,Mar 2024,-79931.0,-72760.0,-5.034945678499758,0,17.85,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BAJFINANCE,TTM,-79931.0,-72760.0,-4.7280525050360644,0,17.45,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+BANKBARODA,Mar 2013,22682.0,23196.0,4.803478981155519,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+BANKBARODA,Mar 2014,41503.0,42233.0,8.386219221604447,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BANKBARODA,Mar 2015,17282.0,17838.0,4.5159493670886075,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+BANKBARODA,Mar 2016,-14016.0,-10011.0,1.9890721239817206,0,75.21,Strong,Excellent,Declining,Cash flow profile remains stable.
+BANKBARODA,Mar 2017,17314.0,17865.0,9.630727762803234,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BANKBARODA,Mar 2018,-60106.0,-59692.0,32.5119825708061,0,74.71,Moderate,Excellent,Declining,Cash flow profile remains stable.
+BANKBARODA,Mar 2019,-3986.0,-1449.0,-1.2427101200686106,0,5.75,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+BANKBARODA,Mar 2020,18392.0,18531.0,18.889908256880734,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BANKBARODA,Mar 2021,-1358.0,-887.0,-0.5475308641975308,0,6.15,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BANKBARODA,Mar 2022,2565.0,6210.0,0.7828060002521114,1,67.51,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BANKBARODA,Mar 2023,-22450.0,-21354.0,-1.423125624791736,0,7.75,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BANKBARODA,Mar 2024,-7559.0,-6274.0,-0.3325030473263024,0,9.77,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+BANKBARODA,TTM,-7559.0,-6274.0,-0.3114575059571088,0,10.11,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+BEL,Mar 2013,214.0,-1539.0,-1.6893523600439078,1,50.78,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+BEL,Mar 2014,190.0,-569.0,-0.5976890756302521,1,51.96,Moderate,Weak,Declining,Cash flow profile remains stable.
+BEL,Mar 2015,595.0,1434.0,1.1979949874686717,1,96.66,Strong,Good,Improving,Cash flow profile remains stable.
+BEL,Mar 2016,790.0,2260.0,1.6903515332834704,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BEL,Mar 2017,3054.0,-61.0,-0.04005252790544977,1,53.86,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BEL,Mar 2018,-693.0,-687.0,-0.480083857442348,0,19.99,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BEL,Mar 2019,618.0,1514.0,0.8023317435082141,1,83.32,Strong,Good,Improving,Cash flow profile remains stable.
+BEL,Mar 2020,1921.0,2570.0,1.4082191780821918,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BEL,Mar 2021,2498.0,5093.0,2.4252380952380954,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BEL,Mar 2022,-665.0,4207.0,1.7529166666666667,0,85.55,Strong,Excellent,Declining,Cash flow profile remains stable.
+BEL,Mar 2023,3907.0,1199.0,0.4015405224380442,1,71.79,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BEL,Mar 2024,-1265.0,4659.0,1.1691342534504392,0,65.98,Moderate,Good,Declining,Cash flow profile remains stable.
+BEL,TTM,-1265.0,4659.0,1.0259854657564413,0,60.28,Moderate,Good,Stable,Cash generation is stable with acceptable cash conversion.
+BHARTIARTL,Mar 2013,3932.0,22608.0,9.972651080723423,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+BHARTIARTL,Mar 2014,1052.0,26233.0,8.689301093077178,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+BHARTIARTL,Mar 2015,5758.0,28059.0,5.558438985736926,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BHARTIARTL,Mar 2016,13851.0,27942.0,4.053677643986653,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BHARTIARTL,Mar 2017,-2400.0,28280.0,6.668238622966282,0,79.89,Strong,Excellent,Declining,Cash flow profile remains stable.
+BHARTIARTL,Mar 2018,1914.0,29854.0,13.66941391941392,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BHARTIARTL,Mar 2019,-8216.0,20070.0,11.889810426540285,0,78.58,Strong,Excellent,Declining,Cash flow profile remains stable.
+BHARTIARTL,Mar 2020,-11469.0,18129.0,-0.5912144534307331,0,3.96,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BHARTIARTL,Mar 2021,20919.0,48205.0,-3.8988191523778712,1,39.33,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+BHARTIARTL,Mar 2022,13539.0,55017.0,6.624563515954245,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+BHARTIARTL,Mar 2023,26093.0,65325.0,5.31659477496541,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BHARTIARTL,Mar 2024,27809.0,78898.0,9.219210095816779,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BHARTIARTL,TTM,27809.0,78898.0,5.710625361899247,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+BHEL,Mar 2013,646.0,1759.0,0.26281189302256086,1,50.78,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+BHEL,Mar 2014,3644.0,4512.0,1.2884066247858366,1,88.11,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BHEL,Mar 2015,1471.0,821.0,0.5662068965517242,1,60.53,Moderate,Weak,Declining,Cash flow profile remains stable.
+BHEL,Mar 2016,397.0,374.0,-0.5297450424929179,1,38.59,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BHEL,Mar 2017,-5.0,560.0,1.2307692307692308,0,51.63,Moderate,Excellent,Declining,Cash flow profile remains stable.
+BHEL,Mar 2018,1950.0,989.0,2.2579908675799087,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BHEL,Mar 2019,-1941.0,-3860.0,-3.852295409181637,0,5.42,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BHEL,Mar 2020,-1015.0,-2892.0,1.9700272479564032,0,77.46,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BHEL,Mar 2021,518.0,560.0,-0.2074074074074074,1,38.61,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+BHEL,Mar 2022,-458.0,660.0,1.4831460674157304,0,60.14,Moderate,Excellent,Declining,Cash flow profile remains stable.
+BHEL,Mar 2023,739.0,-741.0,-1.1330275229357798,1,38.06,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+BHEL,Mar 2024,-2382.0,-3713.0,-13.166666666666666,0,4.49,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BHEL,TTM,-2382.0,-3713.0,-8.343820224719101,0,4.46,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+BOSCHLTD,Dec 2012,47.0,871.0,0.9091858037578288,1,76.77,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+BOSCHLTD,Dec 2013,211.0,1057.0,1.1943502824858756,1,85.61,Strong,Good,Improving,Cash flow profile remains stable.
+BOSCHLTD,Mar 2015,213.0,1396.0,1.0433482810164425,1,81.8,Strong,Good,Improving,Cash flow profile remains stable.
+BOSCHLTD,Mar 2016,323.0,1318.0,0.8608752449379491,1,75.93,Strong,Good,Improving,Cash flow profile remains stable.
+BOSCHLTD,Mar 2017,2703.0,1457.0,0.8368753589890867,1,77.33,Strong,Good,Improving,Cash flow profile remains stable.
+BOSCHLTD,Mar 2018,559.0,1729.0,1.261123267687819,1,89.56,Strong,Excellent,Declining,Cash flow profile remains stable.
+BOSCHLTD,Mar 2019,2359.0,593.0,0.3710888610763454,1,59.95,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BOSCHLTD,Mar 2020,463.0,1336.0,2.0553846153846154,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+BOSCHLTD,Mar 2021,372.0,835.0,1.7323651452282158,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+BOSCHLTD,Mar 2022,238.0,271.0,0.22267871815940837,1,49.64,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+BOSCHLTD,Mar 2023,1476.0,1214.0,0.8525280898876404,1,74.76,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BOSCHLTD,Mar 2024,1536.0,1253.0,0.5032128514056224,1,63.59,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BOSCHLTD,TTM,1536.0,1253.0,0.6012476007677543,1,67.02,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+BPCL,Mar 2013,2322.0,5926.0,3.0609504132231407,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+BPCL,Mar 2014,2707.0,9588.0,2.3656550703182826,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BPCL,Mar 2015,10206.0,20742.0,4.0814639905549,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BPCL,Mar 2016,1886.0,11119.0,1.3745827667202373,1,99.63,Strong,Excellent,Declining,Cash flow profile remains stable.
+BPCL,Mar 2017,-6233.0,9041.0,0.9509834858525297,0,50.91,Moderate,Good,Declining,Cash flow profile remains stable.
+BPCL,Mar 2018,4002.0,11068.0,1.1303104575163399,1,91.01,Strong,Good,Improving,Cash flow profile remains stable.
+BPCL,Mar 2019,-294.0,10157.0,1.1910178236397748,0,58.95,Moderate,Good,Declining,Cash flow profile remains stable.
+BPCL,Mar 2020,-3254.0,7881.0,2.1497545008183305,0,80.05,Strong,Excellent,Declining,Cash flow profile remains stable.
+BPCL,Mar 2021,20981.0,23455.0,1.3542147806004619,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BPCL,Mar 2022,12198.0,20336.0,1.7407978085944187,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+BPCL,Mar 2023,4660.0,12466.0,5.849835757860159,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+BPCL,Mar 2024,25415.0,35936.0,1.3379500353698945,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BPCL,TTM,25415.0,35936.0,2.616572011067424,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+BRITANNIA,Mar 2013,348.0,320.0,1.2307692307692308,1,83.25,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+BRITANNIA,Mar 2014,425.0,671.0,1.6987341772151898,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BRITANNIA,Mar 2015,134.0,584.0,0.8476052249637155,1,74.92,Moderate,Good,Declining,Cash flow profile remains stable.
+BRITANNIA,Mar 2016,254.0,959.0,1.1624242424242424,1,86.11,Strong,Good,Improving,Cash flow profile remains stable.
+BRITANNIA,Mar 2017,291.0,441.0,0.49830508474576274,1,60.74,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+BRITANNIA,Mar 2018,292.0,1249.0,1.2440239043824701,1,87.89,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BRITANNIA,Mar 2019,304.0,1156.0,1.000865800865801,1,78.73,Strong,Good,Improving,Cash flow profile remains stable.
+BRITANNIA,Mar 2020,-41.0,1485.0,1.0652797704447632,0,46.41,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+BRITANNIA,Mar 2021,2309.0,1876.0,1.0135062128579146,1,78.49,Strong,Good,Improving,Cash flow profile remains stable.
+BRITANNIA,Mar 2022,2214.0,1300.0,0.8575197889182058,1,72.41,Moderate,Good,Declining,Cash flow profile remains stable.
+BRITANNIA,Mar 2023,1019.0,2526.0,1.0906735751295338,1,81.39,Strong,Good,Declining,Cash flow profile remains stable.
+BRITANNIA,Mar 2024,3050.0,2573.0,1.2057169634489222,1,86.78,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+BRITANNIA,TTM,3050.0,2573.0,1.2085486143729451,1,87.29,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+CANBK,Mar 2013,7575.0,8010.0,2.674457429048414,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+CANBK,Mar 2014,13864.0,14244.0,5.330838323353293,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+CANBK,Mar 2015,5240.0,6344.0,2.1644489935175706,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+CANBK,Mar 2016,8903.0,9346.0,-3.686785009861933,1,38.71,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+CANBK,Mar 2017,2099.0,2575.0,1.824946846208363,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+CANBK,Mar 2018,-11607.0,-11120.0,2.871159308029951,0,76.68,Strong,Excellent,Declining,Cash flow profile remains stable.
+CANBK,Mar 2019,17492.0,18237.0,26.20258620689655,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+CANBK,Mar 2020,-5734.0,-5289.0,2.7532535137948986,0,77.17,Strong,Excellent,Declining,Cash flow profile remains stable.
+CANBK,Mar 2021,58002.0,59118.0,19.99256002705445,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+CANBK,Mar 2022,-510.0,919.0,0.14923676518350112,0,13.55,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+CANBK,Mar 2023,-41134.0,-39978.0,-3.523843102688409,0,6.06,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+CANBK,Mar 2024,13296.0,15046.0,0.9769495487306019,1,78.61,Strong,Good,Improving,Cash flow profile remains stable.
+CANBK,TTM,13296.0,15046.0,0.9079717578902903,1,76.52,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+CHOLAFIN,Mar 2013,-3749.0,-3754.0,-12.188311688311689,0,16.16,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+CHOLAFIN,Mar 2014,-2530.0,-2447.0,-6.649456521739131,0,16.24,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+CHOLAFIN,Mar 2015,-2304.0,-2264.0,-5.099099099099099,0,16.04,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+CHOLAFIN,Mar 2016,-2946.0,-2809.0,-4.885217391304348,0,17.25,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+CHOLAFIN,Mar 2017,-1690.0,-1468.0,-2.0445682451253484,0,18.71,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+CHOLAFIN,Mar 2018,-7986.0,-7926.0,-8.633986928104575,0,16.17,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+CHOLAFIN,Mar 2019,-9328.0,-9317.0,-7.783625730994152,0,17.14,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+CHOLAFIN,Mar 2020,-2129.0,-2075.0,-1.9686907020872866,0,16.0,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+CHOLAFIN,Mar 2021,-10594.0,-8848.0,-5.817225509533202,0,15.1,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+CHOLAFIN,Mar 2022,-3931.0,-5571.0,-2.586350974930362,0,17.96,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+CHOLAFIN,Mar 2023,-29253.0,-27105.0,-10.170731707317072,0,14.4,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+CHOLAFIN,Mar 2024,-38538.0,-35683.0,-10.433625730994152,0,12.89,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+CHOLAFIN,TTM,-38538.0,-35683.0,-9.2634994807892,0,12.83,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+CIPLA,Mar 2013,-665.0,1398.0,0.9048543689320389,0,44.62,Weak,Good,Stable,Weak cash generation with below-average cash conversion.
+CIPLA,Mar 2014,298.0,1563.0,1.1132478632478633,1,83.77,Strong,Good,Improving,Cash flow profile remains stable.
+CIPLA,Mar 2015,223.0,1173.0,0.9544344995931652,1,76.47,Strong,Good,Declining,Cash flow profile remains stable.
+CIPLA,Mar 2016,-2792.0,1741.0,1.2588575560375994,0,53.97,Moderate,Excellent,Declining,Cash flow profile remains stable.
+CIPLA,Mar 2017,1078.0,2382.0,2.301449275362319,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+CIPLA,Mar 2018,629.0,1463.0,1.0324629498941424,1,78.6,Strong,Good,Declining,Cash flow profile remains stable.
+CIPLA,Mar 2019,3.0,1691.0,1.133378016085791,1,81.32,Strong,Good,Declining,Cash flow profile remains stable.
+CIPLA,Mar 2020,3182.0,3068.0,2.0453333333333332,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+CIPLA,Mar 2021,1381.0,3755.0,1.571787358727501,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+CIPLA,Mar 2022,1468.0,3326.0,1.3058500196309384,1,92.79,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+CIPLA,Mar 2023,862.0,3238.0,1.1429579950582422,1,85.42,Strong,Good,Declining,Cash flow profile remains stable.
+CIPLA,Mar 2024,1152.0,4134.0,0.9951853635050554,1,82.0,Strong,Good,Improving,Cash flow profile remains stable.
+CIPLA,TTM,1152.0,4134.0,0.8289552837377181,1,76.82,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+COALINDIA,Mar 2013,7276.0,9109.0,0.5248329108089421,1,71.03,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+COALINDIA,Mar 2014,23105.0,14525.0,0.9611566966649021,1,89.19,Strong,Good,Improving,Cash flow profile remains stable.
+COALINDIA,Mar 2015,15276.0,14382.0,1.0477161797916514,1,92.19,Strong,Good,Declining,Cash flow profile remains stable.
+COALINDIA,Mar 2016,21308.0,13154.0,0.9219878040232705,1,87.82,Strong,Good,Improving,Cash flow profile remains stable.
+COALINDIA,Mar 2017,16916.0,16461.0,1.7738146551724139,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+COALINDIA,Mar 2018,13368.0,21115.0,3.000142085819835,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+COALINDIA,Mar 2019,8460.0,16356.0,0.9365551992670637,1,86.73,Strong,Good,Declining,Cash flow profile remains stable.
+COALINDIA,Mar 2020,6010.0,4977.0,0.2980239520958084,1,62.81,Moderate,Weak,Declining,Cash flow profile remains stable.
+COALINDIA,Mar 2021,10774.0,10592.0,0.8338844276491891,1,83.21,Strong,Good,Improving,Cash flow profile remains stable.
+COALINDIA,Mar 2022,15392.0,41107.0,2.365462078490045,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+COALINDIA,Mar 2023,12269.0,35734.0,1.1264382309365444,1,94.87,Strong,Good,Declining,Cash flow profile remains stable.
+COALINDIA,Mar 2024,13617.0,18103.0,0.48443897348069254,1,71.72,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+COALINDIA,TTM,13617.0,18103.0,0.5270160116448326,1,72.74,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+DABUR,Mar 2013,248.0,870.0,1.1357702349869452,1,78.65,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+DABUR,Mar 2014,994.0,1098.0,1.1986899563318778,1,83.29,Strong,Good,Improving,Cash flow profile remains stable.
+DABUR,Mar 2015,171.0,1047.0,0.9803370786516854,1,74.71,Moderate,Good,Declining,Cash flow profile remains stable.
+DABUR,Mar 2016,457.0,1187.0,0.9465709728867624,1,74.01,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+DABUR,Mar 2017,420.0,1227.0,0.95859375,1,74.13,Moderate,Good,Declining,Cash flow profile remains stable.
+DABUR,Mar 2018,551.0,1092.0,0.8041237113402062,1,68.53,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+DABUR,Mar 2019,1837.0,1499.0,1.0366528354080222,1,78.54,Strong,Good,Improving,Cash flow profile remains stable.
+DABUR,Mar 2020,1097.0,1614.0,1.1146408839779005,1,80.92,Strong,Good,Declining,Cash flow profile remains stable.
+DABUR,Mar 2021,711.0,2115.0,1.247787610619469,1,86.15,Strong,Excellent,Declining,Cash flow profile remains stable.
+DABUR,Mar 2022,529.0,1802.0,1.034443168771527,1,77.18,Strong,Good,Declining,Cash flow profile remains stable.
+DABUR,Mar 2023,905.0,1488.0,0.8747795414462081,1,70.76,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+DABUR,Mar 2024,1042.0,2013.0,1.1115405853119824,1,79.63,Strong,Good,Improving,Cash flow profile remains stable.
+DABUR,TTM,1042.0,2013.0,1.14375,1,80.42,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+DIVISLAB,Mar 2013,225.0,480.0,0.7973421926910299,1,77.17,Strong,Weak,Stable,Cash flow remains consistently strong with stable operating performance.
+DIVISLAB,Mar 2014,252.0,557.0,0.720569210866753,1,75.11,Strong,Weak,Improving,Cash flow profile remains stable.
+DIVISLAB,Mar 2015,305.0,826.0,0.9694835680751174,1,84.21,Strong,Good,Improving,Cash flow profile remains stable.
+DIVISLAB,Mar 2016,632.0,1038.0,0.9218472468916519,1,82.77,Strong,Good,Improving,Cash flow profile remains stable.
+DIVISLAB,Mar 2017,10.0,1150.0,1.0849056603773586,1,86.25,Strong,Good,Declining,Cash flow profile remains stable.
+DIVISLAB,Mar 2018,298.0,776.0,0.8848346636259977,1,76.8,Strong,Good,Improving,Cash flow profile remains stable.
+DIVISLAB,Mar 2019,269.0,954.0,0.70509977827051,1,72.47,Moderate,Weak,Declining,Cash flow profile remains stable.
+DIVISLAB,Mar 2020,1133.0,1216.0,0.8830791575889615,1,79.64,Strong,Good,Improving,Cash flow profile remains stable.
+DIVISLAB,Mar 2021,2022.0,1947.0,0.9813508064516129,1,86.24,Strong,Good,Improving,Cash flow profile remains stable.
+DIVISLAB,Mar 2022,-283.0,1912.0,0.6459459459459459,0,39.82,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+DIVISLAB,Mar 2023,-248.0,2459.0,1.3481359649122806,0,61.18,Moderate,Excellent,Improving,"Cash generation is improving, although there is still room for stronger quality."
+DIVISLAB,Mar 2024,992.0,1261.0,0.788125,1,72.72,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+DIVISLAB,TTM,992.0,1261.0,0.6868191721132898,1,69.83,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+DLF,Mar 2013,4004.0,2009.0,3.0119940029985006,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+DLF,Mar 2014,5392.0,1468.0,2.488135593220339,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DLF,Mar 2015,2135.0,2037.0,4.017751479289941,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+DLF,Mar 2016,2139.0,2957.0,9.695081967213115,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DLF,Mar 2017,-26.0,-898.0,-1.268361581920904,0,4.84,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+DLF,Mar 2018,-1832.0,270.0,0.060308242126423946,0,12.2,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+DLF,Mar 2019,2046.0,2043.0,1.5547945205479452,1,94.74,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DLF,Mar 2020,6864.0,356.0,-0.6033898305084746,1,40.47,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+DLF,Mar 2021,1610.0,1460.0,1.348107109879963,1,87.7,Strong,Excellent,Declining,Cash flow profile remains stable.
+DLF,Mar 2022,3099.0,2832.0,1.888,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DLF,Mar 2023,1914.0,2375.0,1.1676499508357916,1,84.83,Strong,Good,Declining,Cash flow profile remains stable.
+DLF,Mar 2024,1010.0,2539.0,0.9320851688693098,1,76.73,Strong,Good,Declining,Cash flow profile remains stable.
+DLF,TTM,1010.0,2539.0,0.6341158841158842,1,66.43,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+DMART,Mar 2013,-104.0,127.0,1.351063829787234,0,62.21,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+DMART,Mar 2014,-72.0,198.0,1.2298136645962734,0,58.89,Moderate,Excellent,Improving,"Cash generation is improving, although there is still room for stronger quality."
+DMART,Mar 2015,-252.0,222.0,1.0471698113207548,0,52.08,Moderate,Good,Declining,Cash flow profile remains stable.
+DMART,Mar 2016,-200.0,433.0,1.353125,0,63.85,Moderate,Excellent,Improving,"Cash generation is improving, although there is still room for stronger quality."
+DMART,Mar 2017,-2027.0,455.0,0.9498956158663883,0,46.89,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+DMART,Mar 2018,1194.0,730.0,0.9057071960297767,1,81.87,Strong,Good,Improving,Cash flow profile remains stable.
+DMART,Mar 2019,-151.0,807.0,0.8946784922394678,0,48.15,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+DMART,Mar 2020,-3377.0,1280.0,0.9838585703305149,0,48.88,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+DMART,Mar 2021,265.0,1375.0,1.2511373976342128,1,92.08,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DMART,Mar 2022,83.0,1372.0,0.9195710455764075,1,80.34,Strong,Good,Declining,Cash flow profile remains stable.
+DMART,Mar 2023,317.0,2630.0,1.1059714045416316,1,88.25,Strong,Good,Improving,Cash flow profile remains stable.
+DMART,Mar 2024,278.0,2746.0,1.082807570977918,1,87.21,Strong,Good,Declining,Cash flow profile remains stable.
+DMART,TTM,278.0,2746.0,1.0095588235294117,1,84.48,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+DRREDDY,Mar 2013,-59.0,1378.0,0.9024230517354289,0,42.23,Weak,Good,Stable,Weak cash generation with below-average cash conversion.
+DRREDDY,Mar 2014,366.0,1970.0,1.0035659704533877,1,78.99,Strong,Good,Improving,Cash flow profile remains stable.
+DRREDDY,Mar 2015,154.0,2524.0,1.0804794520547945,1,81.76,Strong,Good,Declining,Cash flow profile remains stable.
+DRREDDY,Mar 2016,1653.0,3263.0,1.5312060065696855,1,98.95,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DRREDDY,Mar 2017,254.0,2144.0,1.6594427244582044,1,97.74,Strong,Excellent,Declining,Cash flow profile remains stable.
+DRREDDY,Mar 2018,320.0,1803.0,1.903907074973601,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DRREDDY,Mar 2019,2101.0,2870.0,1.471794871794872,1,95.99,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DRREDDY,Mar 2020,2489.0,2984.0,1.472852912142152,1,96.38,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DRREDDY,Mar 2021,1315.0,3570.0,1.8288934426229508,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+DRREDDY,Mar 2022,246.0,2811.0,1.2882676443629697,1,85.45,Strong,Excellent,Declining,Cash flow profile remains stable.
+DRREDDY,Mar 2023,1779.0,5888.0,1.3064122476148214,1,93.38,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+DRREDDY,Mar 2024,509.0,4543.0,0.8144496235209753,1,73.56,Moderate,Good,Declining,Cash flow profile remains stable.
+DRREDDY,TTM,509.0,4543.0,0.8338839941262849,1,72.64,Moderate,Good,Stable,Cash generation is stable with acceptable cash conversion.
+EICHERMOT,Dec 2012,-277.0,496.0,1.0442105263157895,0,52.83,Moderate,Good,Stable,Cash generation is stable with acceptable cash conversion.
+EICHERMOT,Dec 2013,-74.0,716.0,1.3638095238095238,0,63.77,Moderate,Excellent,Improving,"Cash generation is improving, although there is still room for stronger quality."
+EICHERMOT,Dec 2014,-167.0,1047.0,1.4914529914529915,0,69.15,Moderate,Excellent,Declining,Cash flow profile remains stable.
+EICHERMOT,Mar 2016,462.0,1463.0,1.093423019431988,1,91.31,Strong,Good,Improving,Cash flow profile remains stable.
+EICHERMOT,Mar 2017,-36.0,1708.0,1.0245950809838031,0,55.55,Moderate,Good,Declining,Cash flow profile remains stable.
+EICHERMOT,Mar 2018,337.0,2482.0,1.2663265306122449,1,95.86,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+EICHERMOT,Mar 2019,915.0,1575.0,0.7149341806627326,1,75.77,Strong,Weak,Improving,Cash flow profile remains stable.
+EICHERMOT,Mar 2020,186.0,1694.0,0.9272030651340997,1,81.0,Strong,Good,Declining,Cash flow profile remains stable.
+EICHERMOT,Mar 2021,66.0,1691.0,1.2553823311061618,1,91.18,Strong,Excellent,Declining,Cash flow profile remains stable.
+EICHERMOT,Mar 2022,544.0,1527.0,0.9105545617173524,1,79.6,Strong,Good,Improving,Cash flow profile remains stable.
+EICHERMOT,Mar 2023,426.0,2823.0,0.9687714481811942,1,83.03,Strong,Good,Declining,Cash flow profile remains stable.
+EICHERMOT,Mar 2024,890.0,3724.0,0.9307673081729567,1,82.19,Strong,Good,Improving,Cash flow profile remains stable.
+EICHERMOT,TTM,890.0,3724.0,0.872539831302718,1,80.15,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+GAIL,Mar 2013,-2023.0,6603.0,1.5120219830547286,0,67.49,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+GAIL,Mar 2014,149.0,4615.0,0.9642707898035938,1,79.49,Strong,Good,Improving,Cash flow profile remains stable.
+GAIL,Mar 2015,1405.0,4214.0,1.3335443037974684,1,89.21,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GAIL,Mar 2016,3056.0,3960.0,2.113127001067236,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GAIL,Mar 2017,5690.0,6024.0,1.7854179016004743,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GAIL,Mar 2018,6109.0,8769.0,1.8249739854318419,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GAIL,Mar 2019,2283.0,7984.0,1.2183732641538227,1,90.7,Strong,Excellent,Declining,Cash flow profile remains stable.
+GAIL,Mar 2020,46.0,8345.0,0.8770362585391487,1,78.86,Strong,Good,Declining,Cash flow profile remains stable.
+GAIL,Mar 2021,4353.0,8993.0,1.463942699007,1,96.9,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GAIL,Mar 2022,3930.0,9420.0,0.7656046814044213,1,76.88,Strong,Weak,Declining,Cash flow profile remains stable.
+GAIL,Mar 2023,-4248.0,3205.0,0.5727305218012866,0,29.41,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+GAIL,Mar 2024,4360.0,12586.0,1.270928001615672,1,90.73,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GAIL,TTM,4360.0,12586.0,1.0905467463824625,1,85.17,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+GODREJCP,Mar 2013,-45.0,820.0,0.9704142011834319,0,41.03,Weak,Good,Stable,Weak cash generation with below-average cash conversion.
+GODREJCP,Mar 2014,622.0,1116.0,1.3626373626373627,1,87.47,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GODREJCP,Mar 2015,-209.0,1027.0,1.0522540983606556,0,43.72,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+GODREJCP,Mar 2016,225.0,847.0,1.0192539109506618,1,74.02,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+GODREJCP,Mar 2017,-383.0,1860.0,1.4220183486238531,0,58.22,Moderate,Excellent,Declining,Cash flow profile remains stable.
+GODREJCP,Mar 2018,1387.0,1723.0,1.0544675642594858,1,77.89,Strong,Good,Improving,Cash flow profile remains stable.
+GODREJCP,Mar 2019,2003.0,1729.0,0.7382578992314262,1,68.31,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+GODREJCP,Mar 2020,1036.0,1588.0,1.0607882431529727,1,77.7,Strong,Good,Declining,Cash flow profile remains stable.
+GODREJCP,Mar 2021,1738.0,2030.0,1.179546775130738,1,84.34,Strong,Good,Improving,Cash flow profile remains stable.
+GODREJCP,Mar 2022,607.0,1451.0,0.8137969713965227,1,69.6,Moderate,Good,Declining,Cash flow profile remains stable.
+GODREJCP,Mar 2023,397.0,2151.0,1.263807285546416,1,86.25,Strong,Excellent,Declining,Cash flow profile remains stable.
+GODREJCP,Mar 2024,-1365.0,2070.0,-3.6898395721925135,0,5.02,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+GODREJCP,TTM,-1365.0,2070.0,-4.569536423841059,0,4.68,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+GRASIM,Mar 2013,-1445.0,4242.0,1.1228163049232398,0,52.89,Moderate,Good,Stable,Cash generation is stable with acceptable cash conversion.
+GRASIM,Mar 2014,1213.0,3549.0,1.2014218009478672,1,88.32,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GRASIM,Mar 2015,2235.0,4594.0,1.7792408985282726,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GRASIM,Mar 2016,1353.0,5868.0,1.6984081041968162,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+GRASIM,Mar 2017,3779.0,7288.0,1.7164390014130946,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GRASIM,Mar 2018,-2594.0,-4140.0,-1.1225596529284165,0,8.41,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+GRASIM,Mar 2019,-3871.0,-1659.0,-0.6043715846994535,0,6.95,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+GRASIM,Mar 2020,5256.0,16620.0,2.5033890646181653,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GRASIM,Mar 2021,7929.0,15075.0,2.157578359811078,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+GRASIM,Mar 2022,5985.0,7038.0,0.6280563983580225,1,68.45,Moderate,Weak,Declining,Cash flow profile remains stable.
+GRASIM,Mar 2023,-26397.0,-12685.0,-1.1450622856111212,0,6.88,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+GRASIM,Mar 2024,-33833.0,-10719.0,-1.0798911948418295,0,6.11,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+GRASIM,TTM,-33833.0,-10719.0,-1.2330610836305074,0,5.68,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+HAL,Mar 2013,,,,0,17.81,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+HAL,Mar 2014,,,,0,17.36,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+HAL,Mar 2015,,,,0,16.97,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+HAL,Mar 2016,,,,0,18.14,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+HAL,Mar 2017,2598.0,-423.0,-0.16169724770642202,1,52.12,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+HAL,Mar 2018,-140.0,-734.0,-0.36940110719677904,0,16.88,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+HAL,Mar 2019,-2402.0,-7694.0,-3.279624893435635,0,15.68,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+HAL,Mar 2020,203.0,1537.0,0.5408163265306123,1,69.71,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+HAL,Mar 2021,13934.0,15124.0,4.669342389626428,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HAL,Mar 2022,-2609.0,10180.0,2.0015729453401496,0,92.64,Strong,Excellent,Declining,Cash flow profile remains stable.
+HAL,Mar 2023,3102.0,8836.0,1.5205644467389434,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HAL,Mar 2024,1814.0,8226.0,1.0830809743252139,1,94.29,Strong,Good,Declining,Cash flow profile remains stable.
+HAL,TTM,1814.0,8226.0,0.9709631728045326,1,90.55,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+HAVELLS,Mar 2013,494.0,638.0,1.0981067125645438,1,81.49,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+HAVELLS,Mar 2014,492.0,868.0,1.946188340807175,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+HAVELLS,Mar 2015,478.0,963.0,2.501298701298701,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+HAVELLS,Mar 2016,392.0,513.0,0.3946153846153846,1,58.76,Moderate,Weak,Declining,Cash flow profile remains stable.
+HAVELLS,Mar 2017,547.0,767.0,1.5526315789473684,1,99.55,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HAVELLS,Mar 2018,154.0,1100.0,1.6641452344931922,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+HAVELLS,Mar 2019,686.0,501.0,0.6357868020304569,1,66.69,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+HAVELLS,Mar 2020,279.0,827.0,1.125170068027211,1,83.78,Strong,Good,Declining,Cash flow profile remains stable.
+HAVELLS,Mar 2021,-103.0,660.0,0.632183908045977,0,34.15,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+HAVELLS,Mar 2022,969.0,1728.0,1.4448160535117056,1,95.61,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HAVELLS,Mar 2023,596.0,565.0,0.5270522388059702,1,62.16,Moderate,Weak,Declining,Cash flow profile remains stable.
+HAVELLS,Mar 2024,335.0,1953.0,1.5365853658536586,1,98.48,Strong,Excellent,Declining,Cash flow profile remains stable.
+HAVELLS,TTM,335.0,1953.0,1.395,1,93.52,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+HCLTECH,Jun 2013,2131.0,4492.0,1.111881188118812,1,84.2,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+HCLTECH,Jun 2014,1615.0,6457.0,0.9891237745098039,1,82.17,Strong,Good,Declining,Cash flow profile remains stable.
+HCLTECH,Jun 2015,3451.0,5539.0,0.7544265867611005,1,72.4,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+HCLTECH,Mar 2017,5105.0,8995.0,1.0452010225424122,1,82.73,Strong,Good,Improving,Cash flow profile remains stable.
+HCLTECH,Mar 2018,6092.0,8328.0,0.9548268745700528,1,78.64,Strong,Good,Improving,Cash flow profile remains stable.
+HCLTECH,Mar 2019,5715.0,8971.0,0.8864624505928854,1,72.89,Moderate,Good,Declining,Cash flow profile remains stable.
+HCLTECH,Mar 2020,1027.0,13359.0,1.2081939043140093,1,82.8,Strong,Excellent,Declining,Cash flow profile remains stable.
+HCLTECH,Mar 2021,13953.0,19618.0,1.756468797564688,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HCLTECH,Mar 2022,18497.0,16900.0,1.2497226946683428,1,89.31,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HCLTECH,Mar 2023,14436.0,18009.0,1.2131357359380264,1,87.82,Strong,Excellent,Declining,Cash flow profile remains stable.
+HCLTECH,Mar 2024,15840.0,22448.0,1.428898790579249,1,96.23,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HCLTECH,Mar 2016 9m,,,,0,16.17,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+HCLTECH,TTM,15840.0,22448.0,1.3139010828211881,1,92.59,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+HDFCBANK,Mar 2013,-6749.0,-5847.0,-0.8470230334637114,0,16.62,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+HDFCBANK,Mar 2014,3112.0,4211.0,0.4802691605839416,1,66.79,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+HDFCBANK,Mar 2015,-22081.0,-21281.0,-1.9883210314864992,0,14.99,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+HDFCBANK,Mar 2016,-35272.0,-34435.0,-2.6858279385383357,0,13.42,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+HDFCBANK,Mar 2017,16136.0,17282.0,1.128288829405236,1,90.36,Strong,Good,Improving,Cash flow profile remains stable.
+HDFCBANK,Mar 2018,16372.0,17214.0,0.9274284790690157,1,83.33,Strong,Good,Improving,Cash flow profile remains stable.
+HDFCBANK,Mar 2019,-64375.0,-62872.0,-2.801033591731266,0,12.87,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+HDFCBANK,Mar 2020,-18272.0,-16869.0,-0.6180026377491208,0,15.56,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+HDFCBANK,Mar 2021,40653.0,42476.0,1.3333333333333333,1,98.14,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HDFCBANK,Mar 2022,-14011.0,-11960.0,-0.3134911273623234,0,16.85,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+HDFCBANK,Mar 2023,17822.0,20814.0,0.45101735682246635,1,67.43,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+HDFCBANK,Mar 2024,35669.0,19069.0,0.2913699844146319,1,61.09,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+HDFCBANK,TTM,35669.0,19069.0,0.2642306839596497,1,60.41,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+HDFCLIFE,Mar 2013,,,,0,21.78,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+HDFCLIFE,Mar 2014,,,,0,20.6,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+HDFCLIFE,Mar 2015,945.0,4459.0,5.673027989821883,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+HDFCLIFE,Mar 2016,1725.0,5687.0,6.960832313341493,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HDFCLIFE,Mar 2017,1053.0,6230.0,7.023675310033822,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+HDFCLIFE,Mar 2018,2318.0,6739.0,6.087624209575429,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HDFCLIFE,Mar 2019,-314.0,9868.0,7.721439749608764,0,93.41,Strong,Excellent,Declining,Cash flow profile remains stable.
+HDFCLIFE,Mar 2020,-401.0,7388.0,5.696222050886662,0,90.8,Strong,Excellent,Declining,Cash flow profile remains stable.
+HDFCLIFE,Mar 2021,751.0,9703.0,7.129316678912565,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HDFCLIFE,Mar 2022,5142.0,5943.0,4.47852298417483,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HDFCLIFE,Mar 2023,-3188.0,6883.0,5.031432748538012,0,87.51,Strong,Excellent,Declining,Cash flow profile remains stable.
+HDFCLIFE,Mar 2024,-2893.0,10721.0,6.81130876747141,0,88.92,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HDFCLIFE,TTM,-2893.0,10721.0,6.136805953062392,0,88.9,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+HEROMOTOCO,Mar 2014,1347.0,2963.0,1.4096098953377736,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+HEROMOTOCO,Mar 2015,2217.0,2186.0,0.9247038917089678,1,84.11,Strong,Good,Improving,Cash flow profile remains stable.
+HEROMOTOCO,Mar 2016,1422.0,3722.0,1.1960154241645244,1,93.4,Strong,Good,Declining,Cash flow profile remains stable.
+HEROMOTOCO,Mar 2017,2035.0,4007.0,1.1300056401579244,1,91.49,Strong,Good,Improving,Cash flow profile remains stable.
+HEROMOTOCO,Mar 2018,2159.0,4017.0,1.0792584631918323,1,89.2,Strong,Good,Improving,Cash flow profile remains stable.
+HEROMOTOCO,Mar 2019,2330.0,1032.0,0.2977495672244662,1,59.93,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+HEROMOTOCO,Mar 2020,2699.0,5518.0,1.508062312107133,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HEROMOTOCO,Mar 2021,1821.0,4110.0,1.3998637602179838,1,97.23,Strong,Excellent,Declining,Cash flow profile remains stable.
+HEROMOTOCO,Mar 2022,1882.0,2104.0,0.9033920137398025,1,78.11,Strong,Good,Improving,Cash flow profile remains stable.
+HEROMOTOCO,Mar 2023,2193.0,2614.0,0.9335714285714286,1,80.2,Strong,Good,Improving,Cash flow profile remains stable.
+HEROMOTOCO,Mar 2024,3095.0,4923.0,1.3156066274719402,1,95.92,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HEROMOTOCO,TTM,3095.0,4923.0,1.1911444471328332,1,91.49,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+HINDALCO,Mar 2013,-10824.0,2977.0,0.9900232790156301,0,45.11,Weak,Good,Stable,Weak cash generation with below-average cash conversion.
+HINDALCO,Mar 2014,-139.0,7956.0,3.624601366742597,0,82.71,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HINDALCO,Mar 2015,3270.0,7143.0,27.57915057915058,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HINDALCO,Mar 2016,8468.0,11688.0,-16.64957264957265,1,42.07,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+HINDALCO,Mar 2017,9811.0,12687.0,6.741232731137088,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HINDALCO,Mar 2018,16231.0,10898.0,1.7915502219299688,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HINDALCO,Mar 2019,6521.0,11977.0,2.1796178343949046,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+HINDALCO,Mar 2020,5518.0,12745.0,3.383328908946111,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+HINDALCO,Mar 2021,-8048.0,17232.0,4.9474590869939705,0,82.64,Strong,Excellent,Declining,Cash flow profile remains stable.
+HINDALCO,Mar 2022,10065.0,16838.0,1.226365622723962,1,94.81,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HINDALCO,Mar 2023,11649.0,19208.0,1.9023472318510448,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HINDALCO,Mar 2024,9789.0,24056.0,2.368882323978336,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+HINDALCO,TTM,9789.0,24056.0,1.9263292761050608,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+HINDUNILVR,Mar 2013,3668.0,3605.0,0.9390466267257098,1,83.71,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+HINDUNILVR,Mar 2014,3343.0,3818.0,0.9651162790697675,1,84.4,Strong,Good,Declining,Cash flow profile remains stable.
+HINDUNILVR,Mar 2015,3430.0,3292.0,0.7522851919561243,1,76.4,Strong,Weak,Improving,Cash flow profile remains stable.
+HINDUNILVR,Mar 2016,3889.0,4171.0,1.0048181161165983,1,84.87,Strong,Good,Improving,Cash flow profile remains stable.
+HINDUNILVR,Mar 2017,4012.0,5185.0,1.1547884187082404,1,90.81,Strong,Good,Improving,Cash flow profile remains stable.
+HINDUNILVR,Mar 2018,4996.0,6059.0,1.1591735220968051,1,92.67,Strong,Good,Improving,Cash flow profile remains stable.
+HINDUNILVR,Mar 2019,5362.0,5800.0,0.9570957095709571,1,85.82,Strong,Good,Improving,Cash flow profile remains stable.
+HINDUNILVR,Mar 2020,9414.0,7623.0,1.1283303730017762,1,94.19,Strong,Good,Improving,Cash flow profile remains stable.
+HINDUNILVR,Mar 2021,7935.0,9163.0,1.1455181897737217,1,89.21,Strong,Good,Declining,Cash flow profile remains stable.
+HINDUNILVR,Mar 2022,7320.0,9048.0,1.0175438596491229,1,84.27,Strong,Good,Declining,Cash flow profile remains stable.
+HINDUNILVR,Mar 2023,8507.0,9991.0,0.9850142955733018,1,82.9,Strong,Good,Improving,Cash flow profile remains stable.
+HINDUNILVR,Mar 2024,10145.0,15469.0,1.504473837774752,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+HINDUNILVR,TTM,10145.0,15469.0,1.4380403458213256,1,99.66,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ICICIBANK,Mar 2013,-1069.0,17494.0,1.726949654491609,0,73.97,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+ICICIBANK,Mar 2014,-8985.0,6765.0,0.5793440095915047,0,33.09,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ICICIBANK,Mar 2015,-25448.0,-12273.0,-0.9483078349559574,0,10.97,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ICICIBANK,Mar 2016,11585.0,23645.0,2.16390592111284,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIBANK,Mar 2017,50925.0,52636.0,4.641622574955909,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIBANK,Mar 2018,-31168.0,19383.0,2.13,0,78.04,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIBANK,Mar 2019,18389.0,48671.0,8.555282123396028,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIBANK,Mar 2020,37470.0,79565.0,7.088195991091314,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIBANK,Mar 2021,74384.0,138015.0,6.777401296405421,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIBANK,Mar 2022,18663.0,58111.0,2.18972793729746,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIBANK,Mar 2023,-71460.0,-3771.0,-0.10634217873156425,0,11.07,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ICICIBANK,Mar 2024,12547.0,157284.0,3.4132071786636575,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIBANK,TTM,12547.0,157284.0,3.0006868131868134,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ICICIGI,Mar 2013,22.0,984.0,2.7875354107648724,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ICICIGI,Mar 2014,-111.0,595.0,1.1442307692307692,0,60.07,Moderate,Good,Declining,Cash flow profile remains stable.
+ICICIGI,Mar 2015,73.0,-98.0,-0.1675213675213675,1,50.85,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+ICICIGI,Mar 2016,201.0,511.0,1.0078895463510849,1,85.41,Strong,Good,Improving,Cash flow profile remains stable.
+ICICIGI,Mar 2017,-362.0,1628.0,2.319088319088319,0,89.18,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIGI,Mar 2018,494.0,2390.0,2.7726218097447797,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIGI,Mar 2019,120.0,2976.0,2.8369876072449953,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIGI,Mar 2020,51.0,3433.0,2.875209380234506,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIGI,Mar 2021,407.0,1774.0,1.2043448744059742,1,94.21,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIGI,Mar 2022,944.0,809.0,0.6365066876475216,1,71.0,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+ICICIGI,Mar 2023,605.0,2290.0,1.324465008675535,1,96.18,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIGI,Mar 2024,486.0,2407.0,1.2542991141219386,1,94.17,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIGI,TTM,486.0,2407.0,0.9559173947577443,1,84.47,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+ICICIPRULI,Mar 2013,-1077.0,-2641.0,-1.7432343234323433,0,19.23,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+ICICIPRULI,Mar 2014,3630.0,-2382.0,-1.5259449071108264,1,52.3,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+ICICIPRULI,Mar 2015,-1299.0,523.0,0.31890243902439025,0,32.13,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ICICIPRULI,Mar 2016,3661.0,3634.0,2.2024242424242426,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIPRULI,Mar 2017,3434.0,4130.0,2.455410225921522,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIPRULI,Mar 2018,301.0,5690.0,3.5145151327980235,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIPRULI,Mar 2019,3818.0,11377.0,9.988586479367866,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIPRULI,Mar 2020,-2201.0,8596.0,8.056232427366448,0,87.97,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIPRULI,Mar 2021,2230.0,7314.0,7.650627615062762,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ICICIPRULI,Mar 2022,1015.0,1831.0,2.412384716732543,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ICICIPRULI,Mar 2023,-1056.0,89.0,0.10947109471094711,0,17.69,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ICICIPRULI,Mar 2024,105.0,-7315.0,-8.595769682726205,1,44.2,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+ICICIPRULI,TTM,105.0,-7315.0,-7.5102669404517455,1,44.75,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+INDIGO,Mar 2013,-149.0,1741.0,2.2121982210927573,0,90.82,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+INDIGO,Mar 2014,-1319.0,1595.0,3.3649789029535864,0,89.23,Strong,Excellent,Declining,Cash flow profile remains stable.
+INDIGO,Mar 2015,1444.0,2384.0,1.8282208588957056,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+INDIGO,Mar 2016,1779.0,3116.0,1.5689828801611279,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+INDIGO,Mar 2017,749.0,3782.0,2.2796865581675707,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+INDIGO,Mar 2018,-249.0,3903.0,1.7408563782337199,0,83.8,Strong,Excellent,Declining,Cash flow profile remains stable.
+INDIGO,Mar 2019,634.0,3160.0,20.256410256410255,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+INDIGO,Mar 2020,2370.0,6943.0,-27.995967741935484,1,47.52,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+INDIGO,Mar 2021,1608.0,-1620.0,0.2625182304326689,1,57.5,Moderate,Weak,Declining,Cash flow profile remains stable.
+INDIGO,Mar 2022,3591.0,2064.0,-6.511041009463723,1,49.45,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+INDIGO,Mar 2023,8664.0,12703.0,-40.072555205047315,1,49.44,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+INDIGO,Mar 2024,9424.0,21183.0,2.5937308681278317,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+INDIGO,TTM,9424.0,21183.0,3.4874876522884426,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+INDUSINDBK,Mar 2013,-660.0,-486.0,-0.4580584354382658,0,14.74,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+INDUSINDBK,Mar 2014,-4280.0,-4106.0,-2.9161931818181817,0,14.53,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+INDUSINDBK,Mar 2015,-1697.0,-1421.0,-0.7920847268673356,0,15.65,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+INDUSINDBK,Mar 2016,-3185.0,-2927.0,-1.2804024496937882,0,15.05,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+INDUSINDBK,Mar 2017,11284.0,11569.0,4.033821478382148,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+INDUSINDBK,Mar 2018,-20917.0,-20700.0,-5.740432612312812,0,12.82,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+INDUSINDBK,Mar 2019,-7022.0,-6389.0,-1.9354740987579522,0,13.14,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+INDUSINDBK,Mar 2020,-11513.0,-12039.0,-2.724988682661838,0,13.15,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+INDUSINDBK,Mar 2021,44420.0,44646.0,15.7425952045134,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+INDUSINDBK,Mar 2022,16249.0,16600.0,3.600086749078291,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+INDUSINDBK,Mar 2023,-12879.0,-12438.0,-1.683085250338295,0,14.28,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+INDUSINDBK,Mar 2024,-17468.0,-16843.0,-1.8818994413407821,0,13.98,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+INDUSINDBK,TTM,-17468.0,-16843.0,-2.073750307805959,0,13.18,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+INFY,Mar 2013,4451.0,7373.0,0.781949305334606,1,73.53,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+INFY,Mar 2014,7262.0,9825.0,0.9220157657657657,1,79.47,Strong,Good,Improving,Cash flow profile remains stable.
+INFY,Mar 2015,9352.0,8353.0,0.6751535725832525,1,70.52,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+INFY,Mar 2016,9143.0,10028.0,0.7434205649047372,1,71.14,Moderate,Weak,Declining,Cash flow profile remains stable.
+INFY,Mar 2017,-3133.0,11531.0,0.8033860516965095,0,39.18,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+INFY,Mar 2018,17751.0,13218.0,0.8246303574770728,1,77.11,Strong,Good,Improving,Cash flow profile remains stable.
+INFY,Mar 2019,14209.0,14841.0,0.9630759247242051,1,80.91,Strong,Good,Declining,Cash flow profile remains stable.
+INFY,Mar 2020,16672.0,17003.0,1.0218763146823728,1,81.86,Strong,Good,Improving,Cash flow profile remains stable.
+INFY,Mar 2021,15851.0,23224.0,1.195695824537919,1,89.48,Strong,Good,Declining,Cash flow profile remains stable.
+INFY,Mar 2022,17400.0,23885.0,1.0785243384809897,1,86.24,Strong,Good,Improving,Cash flow profile remains stable.
+INFY,Mar 2023,21396.0,22467.0,0.9319313091090095,1,80.33,Strong,Good,Improving,Cash flow profile remains stable.
+INFY,Mar 2024,20117.0,25210.0,0.9604541298384639,1,80.6,Strong,Good,Declining,Cash flow profile remains stable.
+INFY,TTM,20117.0,25210.0,0.9105356304402789,1,78.93,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+IOC,Mar 2013,46.0,9340.0,2.5751309622277363,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+IOC,Mar 2014,5601.0,24195.0,3.4728003444811253,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+IOC,Mar 2015,35877.0,46092.0,9.460591133004925,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+IOC,Mar 2016,12014.0,25624.0,2.0642874405864817,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+IOC,Mar 2017,10532.0,28216.0,1.3841550159430953,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+IOC,Mar 2018,11996.0,29115.0,1.286793953858393,1,97.56,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+IOC,Mar 2019,-9822.0,12747.0,0.7379298367488711,0,39.37,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+IOC,Mar 2020,-21955.0,7146.0,-3.8091684434968016,0,5.95,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+IOC,Mar 2021,26715.0,49650.0,2.2814998621450235,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+IOC,Mar 2022,4453.0,25747.0,1.00077739339993,1,84.14,Strong,Good,Declining,Cash flow profile remains stable.
+IOC,Mar 2023,1614.0,29644.0,2.5328092959671906,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+IOC,Mar 2024,39635.0,71099.0,1.6472973286068442,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+IOC,TTM,39635.0,71099.0,6.517462645522046,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+IRCTC,Mar 2015,23.0,69.0,0.5267175572519084,1,69.84,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+IRCTC,Mar 2016,295.0,288.0,1.5238095238095237,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+IRCTC,Mar 2017,432.0,338.0,1.4759825327510918,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+IRCTC,Mar 2018,64.0,24.0,0.1085972850678733,1,54.32,Moderate,Weak,Declining,Cash flow profile remains stable.
+IRCTC,Mar 2019,146.0,499.0,1.6148867313915858,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+IRCTC,Mar 2020,417.0,409.0,0.797270955165692,1,82.37,Strong,Weak,Improving,Cash flow profile remains stable.
+IRCTC,Mar 2021,-205.0,248.0,1.3262032085561497,0,64.03,Moderate,Excellent,Declining,Cash flow profile remains stable.
+IRCTC,Mar 2022,282.0,524.0,0.793939393939394,1,81.64,Strong,Weak,Improving,Cash flow profile remains stable.
+IRCTC,Mar 2023,495.0,812.0,0.8071570576540755,1,82.77,Strong,Good,Improving,Cash flow profile remains stable.
+IRCTC,Mar 2024,667.0,882.0,0.7938793879387939,1,81.88,Strong,Weak,Improving,Cash flow profile remains stable.
+IRCTC,TTM,667.0,882.0,0.735,1,79.86,Strong,Weak,Stable,Cash flow remains consistently strong with stable operating performance.
+IRFC,Mar 2013,,,,0,11.72,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+IRFC,Mar 2014,,,,0,12.25,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+IRFC,Mar 2015,,,,0,12.36,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+IRFC,Mar 2016,-16376.0,-16378.0,-19.290930506478208,0,9.95,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+IRFC,Mar 2017,-19453.0,-19455.0,-20.829764453961456,0,9.3,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+IRFC,Mar 2018,-28074.0,-28076.0,-13.662287104622871,0,11.75,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+IRFC,Mar 2019,-41747.0,-41748.0,-18.51352549889135,0,9.61,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+IRFC,Mar 2020,-62700.0,-62701.0,-19.64317042606516,0,10.26,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+IRFC,Mar 2021,-89907.0,-89907.0,-20.359375,0,10.92,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+IRFC,Mar 2022,-64417.0,-64412.0,-10.576683087027915,0,11.61,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+IRFC,Mar 2023,-28588.0,-28588.0,-4.635641316685585,0,12.39,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+IRFC,Mar 2024,7906.0,7914.0,1.2342482844666252,1,91.92,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+IRFC,TTM,7906.0,7914.0,1.2106470858191831,1,91.19,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ITC,Mar 2013,3221.0,7102.0,0.921858774662513,1,78.89,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+ITC,Mar 2014,4090.0,7344.0,0.8159093434062882,1,76.48,Strong,Good,Improving,Cash flow profile remains stable.
+ITC,Mar 2015,4568.0,9843.0,1.0065446364658963,1,83.14,Strong,Good,Improving,Cash flow profile remains stable.
+ITC,Mar 2016,5878.0,9799.0,1.0313651194611093,1,84.42,Strong,Good,Improving,Cash flow profile remains stable.
+ITC,Mar 2017,7376.0,10627.0,1.0143170754987114,1,85.24,Strong,Good,Improving,Cash flow profile remains stable.
+ITC,Mar 2018,6055.0,13169.0,1.1458278952405812,1,88.51,Strong,Good,Declining,Cash flow profile remains stable.
+ITC,Mar 2019,7037.0,12583.0,0.9802898099096292,1,83.63,Strong,Good,Improving,Cash flow profile remains stable.
+ITC,Mar 2020,8516.0,14690.0,0.942089399089335,1,82.51,Strong,Good,Improving,Cash flow profile remains stable.
+ITC,Mar 2021,18267.0,12527.0,0.9360382574908466,1,82.13,Strong,Good,Improving,Cash flow profile remains stable.
+ITC,Mar 2022,13538.0,15776.0,1.017609494936464,1,85.51,Strong,Good,Declining,Cash flow profile remains stable.
+ITC,Mar 2023,13146.0,18878.0,0.9692457770703907,1,84.01,Strong,Good,Declining,Cash flow profile remains stable.
+ITC,Mar 2024,18742.0,17179.0,0.8278637174112091,1,78.6,Strong,Good,Improving,Cash flow profile remains stable.
+ITC,TTM,18742.0,17179.0,0.8247635508185702,1,78.47,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+JINDALSTEL,Mar 2013,-6069.0,3522.0,1.193089430894309,0,51.64,Moderate,Good,Stable,Cash generation is stable with acceptable cash conversion.
+JINDALSTEL,Mar 2014,-8114.0,4580.0,2.4156118143459917,0,77.88,Strong,Excellent,Declining,Cash flow profile remains stable.
+JINDALSTEL,Mar 2015,-5535.0,1182.0,-0.8140495867768595,0,1.93,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+JINDALSTEL,Mar 2016,2071.0,4333.0,-1.4036281179138321,1,35.46,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+JINDALSTEL,Mar 2017,4852.0,6850.0,-2.6989755713159966,1,36.23,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+JINDALSTEL,Mar 2018,6293.0,7724.0,-4.77970297029703,1,36.95,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+JINDALSTEL,Mar 2019,8195.0,9027.0,-3.7425373134328357,1,38.0,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+JINDALSTEL,Mar 2020,7338.0,8814.0,-22.035,1,37.88,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+JINDALSTEL,Mar 2021,10077.0,11961.0,2.8031403796578394,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JINDALSTEL,Mar 2022,13717.0,16048.0,2.371859296482412,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JINDALSTEL,Mar 2023,3257.0,7347.0,1.8487669854051334,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+JINDALSTEL,Mar 2024,-2336.0,6008.0,1.010937237085647,0,46.29,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+JINDALSTEL,TTM,-2336.0,6008.0,1.1873517786561265,0,51.85,Moderate,Good,Stable,Cash generation is stable with acceptable cash conversion.
+JIOFIN,Mar 2023,945.0,2055.0,66.29032258064517,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+JIOFIN,Mar 2024,763.0,-678.0,-0.4224299065420561,1,52.12,Moderate,Weak,Declining,Cash flow profile remains stable.
+JIOFIN,TTM,763.0,-678.0,-0.42190416925948976,1,51.74,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+JSWENERGY,Mar 2013,781.0,1725.0,1.9145394006659266,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+JSWENERGY,Mar 2014,1906.0,2269.0,2.985526315789474,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWENERGY,Mar 2015,2972.0,3394.0,2.499263622974963,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWENERGY,Mar 2016,266.0,3538.0,2.4232876712328766,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+JSWENERGY,Mar 2017,3091.0,3853.0,6.184590690208668,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWENERGY,Mar 2018,3719.0,3934.0,46.28235294117647,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWENERGY,Mar 2019,2436.0,2491.0,3.641812865497076,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+JSWENERGY,Mar 2020,2383.0,2082.0,1.9259944495837187,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+JSWENERGY,Mar 2021,2670.0,3700.0,4.495747266099635,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWENERGY,Mar 2022,1565.0,2952.0,1.693631669535284,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+JSWENERGY,Mar 2023,-4694.0,2084.0,1.4081081081081082,0,56.17,Moderate,Excellent,Declining,Cash flow profile remains stable.
+JSWENERGY,Mar 2024,-1963.0,6234.0,3.6139130434782607,0,79.25,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWENERGY,TTM,-1963.0,6234.0,3.1358148893360163,0,78.96,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+JSWSTEEL,Mar 2013,411.0,5844.0,6.290635091496233,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+JSWSTEEL,Mar 2014,-3024.0,2594.0,6.45273631840796,0,81.36,Strong,Excellent,Declining,Cash flow profile remains stable.
+JSWSTEEL,Mar 2015,504.0,7876.0,4.5737514518002325,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWSTEEL,Mar 2016,3040.0,6897.0,-14.338877338877339,1,40.63,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+JSWSTEEL,Mar 2017,2794.0,7888.0,2.275165849437554,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+JSWSTEEL,Mar 2018,7850.0,12379.0,2.0250286275151317,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWSTEEL,Mar 2019,3246.0,14633.0,1.944843168527379,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+JSWSTEEL,Mar 2020,-6804.0,12785.0,3.262311814238326,0,83.16,Strong,Excellent,Declining,Cash flow profile remains stable.
+JSWSTEEL,Mar 2021,11087.0,18789.0,2.3865108599009273,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWSTEEL,Mar 2022,11522.0,26270.0,1.2546566052153978,1,98.78,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWSTEEL,Mar 2023,12593.0,23323.0,5.634935974873158,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+JSWSTEEL,Mar 2024,-2389.0,12078.0,1.3460381143430291,0,60.29,Moderate,Excellent,Declining,Cash flow profile remains stable.
+JSWSTEEL,TTM,-2389.0,12078.0,3.6467391304347827,0,82.82,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+KOTAKBANK,Mar 2013,-6157.0,2878.0,1.285969615728329,0,60.66,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+KOTAKBANK,Mar 2014,7938.0,9068.0,3.588444796201029,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+KOTAKBANK,Mar 2015,-2165.0,2302.0,0.7413848631239935,0,42.27,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+KOTAKBANK,Mar 2016,2672.0,5025.0,1.4259364358683315,1,96.66,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+KOTAKBANK,Mar 2017,7933.0,13222.0,2.634389320581789,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+KOTAKBANK,Mar 2018,-15867.0,-10392.0,-1.660594439117929,0,14.16,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+KOTAKBANK,Mar 2019,-1501.0,1822.0,0.2529150471960022,0,24.67,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+KOTAKBANK,Mar 2020,33551.0,46619.0,5.425229838240428,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+KOTAKBANK,Mar 2021,-6291.0,4881.0,0.4885885885885886,0,33.34,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+KOTAKBANK,Mar 2022,-2595.0,8308.0,0.6872363305484325,0,40.88,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+KOTAKBANK,Mar 2023,-11623.0,-1242.0,-0.08321608040201005,0,16.06,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+KOTAKBANK,Mar 2024,6766.0,15685.0,0.8611980453522209,1,80.0,Strong,Good,Improving,Cash flow profile remains stable.
+KOTAKBANK,TTM,6766.0,15685.0,0.6961828672880603,1,75.11,Strong,Weak,Stable,Cash flow remains consistently strong with stable operating performance.
+LICI,Mar 2019,22910.0,13274.0,5.052912066996574,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+LICI,Mar 2020,13952.0,54367.0,20.06162361623616,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+LICI,Mar 2021,229049.0,80602.0,27.10221923335575,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+LICI,Mar 2022,8748.0,-3783.0,-0.9170909090909091,1,50.95,Moderate,Weak,Declining,Cash flow profile remains stable.
+LICI,Mar 2023,1671.0,54519.0,1.5145428785732145,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+LICI,Mar 2024,853.0,26122.0,0.6384299540522045,1,74.36,Moderate,Weak,Declining,Cash flow profile remains stable.
+LICI,TTM,853.0,26122.0,0.6299315134561589,1,72.98,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+LODHA,Mar 2011,,,,0,19.59,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+LODHA,Mar 2012,,,,0,22.05,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+LODHA,Mar 2015,,,,0,20.65,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+LODHA,Mar 2016,-467.0,387.0,0.55049786628734,0,34.82,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+LODHA,Mar 2017,295.0,1469.0,2.5154109589041096,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+LODHA,Mar 2018,45.0,696.0,0.8765743073047859,1,75.95,Strong,Good,Declining,Cash flow profile remains stable.
+LODHA,Mar 2019,-638.0,-463.0,-0.2816301703163017,0,18.02,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+LODHA,Mar 2020,3954.0,3772.0,5.083557951482479,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+LODHA,Mar 2021,2944.0,2524.0,52.583333333333336,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+LODHA,Mar 2022,3137.0,1998.0,1.653973509933775,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+LODHA,Mar 2023,4539.0,2750.0,5.612244897959184,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+LODHA,Mar 2024,-435.0,2512.0,1.6164736164736164,0,75.11,Strong,Excellent,Declining,Cash flow profile remains stable.
+LODHA,TTM,-435.0,2512.0,1.0003982477100757,0,55.03,Moderate,Good,Stable,Cash generation is stable with acceptable cash conversion.
+LT,Mar 2013,-11277.0,-4355.0,-0.8230958230958231,0,9.36,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+LT,Mar 2014,-12653.0,-7143.0,-1.462231320368475,0,9.36,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+LT,Mar 2015,-6143.0,-1365.0,-0.27486910994764396,0,9.55,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+LT,Mar 2016,-7867.0,-3240.0,-0.705574912891986,0,9.1,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+LT,Mar 2017,-3141.0,6655.0,1.0260561208757324,0,48.32,Weak,Good,Improving,Weak cash generation with below-average cash conversion.
+LT,Mar 2018,-6117.0,-10031.0,-1.253248375812094,0,9.16,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+LT,Mar 2019,-15779.0,-4756.0,-0.46549867867280026,0,9.56,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+LT,Mar 2020,-1714.0,6694.0,0.6144666789058197,0,33.83,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+LT,Mar 2021,17324.0,23074.0,1.7857750948069036,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+LT,Mar 2022,15579.0,19164.0,1.8393319896343219,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+LT,Mar 2023,14729.0,22777.0,1.8176522224882292,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+LT,Mar 2024,20445.0,18266.0,1.1748890461182222,1,88.63,Strong,Good,Improving,Cash flow profile remains stable.
+LT,TTM,20445.0,18266.0,1.1310216718266255,1,86.99,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+LTIM,Mar 2013,384.0,608.0,1.0818505338078293,1,88.19,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+LTIM,Mar 2014,808.0,628.0,0.6305220883534136,1,74.35,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+LTIM,Mar 2015,539.0,642.0,0.834850455136541,1,78.12,Strong,Good,Declining,Cash flow profile remains stable.
+LTIM,Mar 2016,818.0,858.0,1.0263157894736843,1,88.89,Strong,Good,Improving,Cash flow profile remains stable.
+LTIM,Mar 2017,209.0,1170.0,1.2049433573635426,1,94.88,Strong,Excellent,Declining,Cash flow profile remains stable.
+LTIM,Mar 2018,392.0,844.0,0.7589928057553957,1,73.84,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+LTIM,Mar 2019,646.0,1395.0,0.9201846965699209,1,82.7,Strong,Good,Improving,Cash flow profile remains stable.
+LTIM,Mar 2020,1001.0,1644.0,1.081578947368421,1,82.82,Strong,Good,Improving,Cash flow profile remains stable.
+LTIM,Mar 2021,743.0,2400.0,1.238390092879257,1,90.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+LTIM,Mar 2022,1608.0,3251.0,0.8230379746835443,1,76.36,Strong,Good,Improving,Cash flow profile remains stable.
+LTIM,Mar 2023,2824.0,3095.0,0.7018140589569161,1,68.63,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+LTIM,Mar 2024,1752.0,5670.0,1.2366412213740459,1,87.75,Strong,Excellent,Declining,Cash flow profile remains stable.
+LTIM,TTM,1752.0,5670.0,1.2396152164407521,1,86.95,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+M&M,Mar 2013,-3825.0,-922.0,-0.223298619520465,0,5.36,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+M&M,Mar 2014,-4768.0,-244.0,-0.0473418703919286,0,5.85,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+M&M,Mar 2015,-3302.0,1055.0,0.3120378586217096,0,15.24,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+M&M,Mar 2016,-3121.0,2385.0,0.6710748452447945,0,28.11,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+M&M,Mar 2017,-5692.0,183.0,0.04517403110343125,0,5.38,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+M&M,Mar 2018,-4785.0,682.0,0.0856999246041719,0,9.21,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+M&M,Mar 2019,-11521.0,-4347.0,-0.7224530496925378,0,3.46,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+M&M,Mar 2020,-8327.0,-1457.0,4.538940809968848,0,74.02,Moderate,Excellent,Improving,"Cash generation is improving, although there is still room for stronger quality."
+M&M,Mar 2021,-1777.0,17909.0,11.84457671957672,0,74.78,Moderate,Excellent,Improving,"Cash generation is improving, although there is still room for stronger quality."
+M&M,Mar 2022,5996.0,9248.0,1.2750585964428511,1,87.86,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+M&M,Mar 2023,-15940.0,-7074.0,-0.6219447863548444,0,5.33,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+M&M,Mar 2024,-11245.0,-5630.0,-0.4588427057864711,0,4.94,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+M&M,TTM,-11245.0,-5630.0,-0.43277730801752634,0,4.92,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+MARUTI,Mar 2013,940.0,4059.0,1.6433198380566802,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+MARUTI,Mar 2014,-2.0,4995.0,1.750175192711983,0,74.59,Moderate,Excellent,Declining,Cash flow profile remains stable.
+MARUTI,Mar 2015,1958.0,6449.0,1.693095300603833,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+MARUTI,Mar 2016,1252.0,8482.0,1.543023467345825,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+MARUTI,Mar 2017,1109.0,10282.0,1.3689255758221275,1,96.88,Strong,Excellent,Declining,Cash flow profile remains stable.
+MARUTI,Mar 2018,3486.0,11788.0,1.4957492703971578,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+MARUTI,Mar 2019,3061.0,6601.0,0.8627630375114365,1,79.45,Strong,Good,Declining,Cash flow profile remains stable.
+MARUTI,Mar 2020,2939.0,3496.0,0.6157097569566748,1,68.32,Moderate,Weak,Declining,Cash flow profile remains stable.
+MARUTI,Mar 2021,1565.0,8856.0,2.017771701982228,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+MARUTI,Mar 2022,1601.0,1840.0,0.4742268041237113,1,60.39,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+MARUTI,Mar 2023,1995.0,10815.0,1.3086882865440466,1,92.24,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+MARUTI,Mar 2024,4936.0,16801.0,1.2456257413997627,1,93.23,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+MARUTI,TTM,4936.0,16801.0,1.198274017545111,1,91.54,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+MOTHERSON,Mar 2013,397.0,1486.0,3.2876106194690267,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+MOTHERSON,Mar 2014,1323.0,2695.0,2.456700091157703,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+MOTHERSON,Mar 2015,546.0,3390.0,2.623839009287926,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+MOTHERSON,Mar 2016,282.0,2188.0,1.23337091319053,1,89.86,Strong,Excellent,Declining,Cash flow profile remains stable.
+MOTHERSON,Mar 2017,-2345.0,3800.0,1.7495395948434622,0,72.77,Moderate,Excellent,Declining,Cash flow profile remains stable.
+MOTHERSON,Mar 2018,70.0,3264.0,1.4442477876106194,1,95.27,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+MOTHERSON,Mar 2019,994.0,4312.0,2.0552907530981885,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+MOTHERSON,Mar 2020,4132.0,6352.0,4.908809891808346,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+MOTHERSON,Mar 2021,3165.0,5051.0,3.2192479286169533,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+MOTHERSON,Mar 2022,159.0,2463.0,2.083756345177665,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+MOTHERSON,Mar 2023,2395.0,4643.0,2.7802395209580837,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+MOTHERSON,Mar 2024,925.0,7569.0,2.5062913907284767,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+MOTHERSON,TTM,925.0,7569.0,1.8357991753577492,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+NAUKRI,Mar 2013,29.0,75.0,0.9868421052631579,1,86.7,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+NAUKRI,Mar 2014,-123.0,81.0,1.35,0,65.97,Moderate,Excellent,Declining,Cash flow profile remains stable.
+NAUKRI,Mar 2015,-1000.0,51.0,-3.642857142857143,0,12.64,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+NAUKRI,Mar 2016,76.0,78.0,0.6610169491525424,1,72.66,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+NAUKRI,Mar 2017,48.0,213.0,-4.953488372093023,1,43.78,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+NAUKRI,Mar 2018,104.0,253.0,0.5049900199600799,1,73.42,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+NAUKRI,Mar 2019,217.0,276.0,0.46621621621621623,1,70.43,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+NAUKRI,Mar 2020,447.0,350.0,-1.4227642276422765,1,43.37,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+NAUKRI,Mar 2021,-1767.0,276.0,0.19464033850493653,0,28.96,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+NAUKRI,Mar 2022,-470.0,707.0,0.05488278217668064,0,24.49,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+NAUKRI,Mar 2023,154.0,512.0,-7.314285714285714,1,44.56,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+NAUKRI,Mar 2024,-150.0,702.0,1.1798319327731093,0,57.48,Moderate,Good,Declining,Cash flow profile remains stable.
+NAUKRI,TTM,-150.0,702.0,1.2740471869328494,0,60.93,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+NESTLEIND,Dec 2013,1355.0,1796.0,1.6078782452999105,1,99.85,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+NESTLEIND,Dec 2014,1212.0,1644.0,1.3873417721518988,1,94.97,Strong,Excellent,Declining,Cash flow profile remains stable.
+NESTLEIND,Dec 2015,1028.0,1098.0,1.9502664298401422,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+NESTLEIND,Dec 2016,1340.0,1466.0,1.4645354645354645,1,95.78,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NESTLEIND,Dec 2017,1687.0,1818.0,1.4840816326530613,1,97.47,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NESTLEIND,Dec 2018,2000.0,2052.0,1.2769135034225265,1,90.98,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NESTLEIND,Dec 2019,2378.0,2295.0,1.166158536585366,1,91.13,Strong,Good,Improving,Cash flow profile remains stable.
+NESTLEIND,Dec 2020,2133.0,2454.0,1.1786743515850144,1,91.71,Strong,Good,Declining,Cash flow profile remains stable.
+NESTLEIND,Dec 2021,316.0,2236.0,1.0557129367327667,1,85.48,Strong,Good,Declining,Cash flow profile remains stable.
+NESTLEIND,Dec 2022,2345.0,2737.0,1.1447093266415727,1,89.86,Strong,Good,Improving,Cash flow profile remains stable.
+NESTLEIND,Dec 2023,2465.0,3392.0,1.1310436812270757,1,90.36,Strong,Good,Improving,Cash flow profile remains stable.
+NESTLEIND,Mar 2024,2938.0,4175.0,1.0615306381896772,1,88.13,Strong,Good,Improving,Cash flow profile remains stable.
+NESTLEIND,TTM,2938.0,4175.0,1.2563948239542582,1,94.53,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+NHPC,Mar 2013,1516.0,2846.0,0.9906021580229725,1,77.68,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+NHPC,Mar 2014,2702.0,3824.0,2.3417023882424983,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NHPC,Mar 2015,3293.0,4061.0,1.4513938527519656,1,94.25,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NHPC,Mar 2016,5225.0,5971.0,2.5247357293868924,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NHPC,Mar 2017,6465.0,8329.0,2.393390804597701,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NHPC,Mar 2018,3810.0,4696.0,1.6861759425493716,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+NHPC,Mar 2019,2642.0,3824.0,1.3483779971791254,1,90.82,Strong,Excellent,Declining,Cash flow profile remains stable.
+NHPC,Mar 2020,6.0,2993.0,0.8947683109118086,1,74.32,Moderate,Good,Declining,Cash flow profile remains stable.
+NHPC,Mar 2021,3463.0,5070.0,1.4083333333333334,1,93.79,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NHPC,Mar 2022,1506.0,4590.0,1.2162162162162162,1,85.88,Strong,Excellent,Declining,Cash flow profile remains stable.
+NHPC,Mar 2023,514.0,4705.0,1.1042008918094344,1,82.92,Strong,Good,Declining,Cash flow profile remains stable.
+NHPC,Mar 2024,970.0,6938.0,1.7224428997020853,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NHPC,TTM,970.0,6938.0,2.0304360550190226,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+NTPC,Mar 2013,-337.0,16508.0,1.3116160813602415,0,58.96,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+NTPC,Mar 2014,1022.0,16531.0,1.4497062176620188,1,94.42,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NTPC,Mar 2015,-1088.0,14889.0,1.4900920736589272,0,62.05,Moderate,Excellent,Declining,Cash flow profile remains stable.
+NTPC,Mar 2016,4963.0,24125.0,2.237733048882293,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NTPC,Mar 2017,-4313.0,20167.0,1.8823035280940825,0,75.56,Strong,Excellent,Declining,Cash flow profile remains stable.
+NTPC,Mar 2018,-1008.0,19670.0,1.8729765758903065,0,75.24,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NTPC,Mar 2019,-5377.0,18686.0,1.331480689753456,0,55.17,Moderate,Excellent,Declining,Cash flow profile remains stable.
+NTPC,Mar 2020,-5738.0,23890.0,2.007225676356915,0,78.17,Strong,Excellent,Declining,Cash flow profile remains stable.
+NTPC,Mar 2021,11410.0,32444.0,2.1674126528158193,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NTPC,Mar 2022,18897.0,41788.0,2.463915094339623,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NTPC,Mar 2023,21007.0,47152.0,2.7540447403773145,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+NTPC,Mar 2024,8644.0,40785.0,1.9119163697731107,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+NTPC,TTM,8644.0,40785.0,1.8089683314113367,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ONGC,Mar 2013,-1346.0,39874.0,1.6618321246978411,0,76.05,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ONGC,Mar 2014,-10363.0,53270.0,1.9977498593662104,0,87.12,Strong,Excellent,Declining,Cash flow profile remains stable.
+ONGC,Mar 2015,3892.0,33950.0,1.9177540529853696,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ONGC,Mar 2016,8036.0,46292.0,3.533201038009464,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ONGC,Mar 2017,1965.0,45780.0,1.5694744420446365,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ONGC,Mar 2018,-10006.0,56792.0,2.178609789780574,0,84.53,Strong,Excellent,Declining,Cash flow profile remains stable.
+ONGC,Mar 2019,24326.0,61458.0,1.8108904472862277,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ONGC,Mar 2020,17434.0,70593.0,6.162098463687151,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ONGC,Mar 2021,8044.0,47185.0,2.2090355805243447,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ONGC,Mar 2022,37051.0,78248.0,1.5873737168823792,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ONGC,Mar 2023,11372.0,86062.0,2.625602538287876,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ONGC,Mar 2024,42060.0,99263.0,1.7383758603176827,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ONGC,TTM,42060.0,99263.0,2.345534026465028,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+PFC,Mar 2013,-25080.0,-25102.0,-5.65615141955836,0,13.18,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+PFC,Mar 2014,-22464.0,-22473.0,-4.1144269498352255,0,14.12,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+PFC,Mar 2015,-21946.0,-21455.0,-3.5734510326449036,0,13.73,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+PFC,Mar 2016,-15271.0,-13298.0,-2.1503880983182406,0,14.13,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+PFC,Mar 2017,1128.0,1795.0,0.802772808586762,1,71.64,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+PFC,Mar 2018,-55739.0,-57148.0,-6.496305558713198,0,10.14,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+PFC,Mar 2019,-93715.0,-80252.0,-6.349050632911393,0,11.85,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+PFC,Mar 2020,-42221.0,-42148.0,-4.447398965917484,0,9.12,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+PFC,Mar 2021,-57402.0,-59143.0,-3.763234919826928,0,12.36,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+PFC,Mar 2022,4357.0,4904.0,0.2612958226768968,1,59.16,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+PFC,Mar 2023,-76411.0,-74717.0,-3.527881391944851,0,13.48,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+PFC,Mar 2024,-101229.0,-97820.0,-3.6967612713049394,0,14.04,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+PFC,TTM,-101229.0,-97820.0,-3.462900028320589,0,14.02,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+PIDILITIND,Mar 2013,328.0,472.0,1.1132075471698113,1,88.65,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+PIDILITIND,Mar 2014,295.0,394.0,0.8755555555555555,1,79.79,Strong,Good,Declining,Cash flow profile remains stable.
+PIDILITIND,Mar 2015,116.0,552.0,1.0739299610894941,1,86.89,Strong,Good,Declining,Cash flow profile remains stable.
+PIDILITIND,Mar 2016,416.0,907.0,1.123915737298637,1,91.81,Strong,Good,Improving,Cash flow profile remains stable.
+PIDILITIND,Mar 2017,-85.0,794.0,0.9200463499420626,0,51.54,Moderate,Good,Declining,Cash flow profile remains stable.
+PIDILITIND,Mar 2018,835.0,796.0,0.8240165631469979,1,80.65,Strong,Good,Improving,Cash flow profile remains stable.
+PIDILITIND,Mar 2019,332.0,845.0,0.9105603448275862,1,81.7,Strong,Good,Declining,Cash flow profile remains stable.
+PIDILITIND,Mar 2020,1383.0,1280.0,1.1408199643493762,1,90.91,Strong,Good,Improving,Cash flow profile remains stable.
+PIDILITIND,Mar 2021,-296.0,1392.0,1.236234458259325,0,61.06,Moderate,Excellent,Declining,Cash flow profile remains stable.
+PIDILITIND,Mar 2022,397.0,955.0,0.7912178956089478,1,76.24,Strong,Weak,Improving,Cash flow profile remains stable.
+PIDILITIND,Mar 2023,659.0,1558.0,1.208688906128782,1,90.78,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+PIDILITIND,Mar 2024,955.0,2724.0,1.559244419004007,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+PIDILITIND,TTM,955.0,2724.0,1.380638621388748,1,99.27,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+PNB,Mar 2013,-1292.0,-692.0,-0.13784860557768924,0,14.49,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+PNB,Mar 2014,16604.0,16906.0,4.601524224278715,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+PNB,Mar 2015,3942.0,4814.0,1.3656737588652483,1,94.46,Strong,Excellent,Declining,Cash flow profile remains stable.
+PNB,Mar 2016,12815.0,14167.0,-4.036182336182336,1,39.71,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+PNB,Mar 2017,22097.0,21938.0,17.706214689265536,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+PNB,Mar 2018,-1350.0,-1742.0,0.14383618198332096,0,13.83,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+PNB,Mar 2019,-34161.0,-33532.0,3.5112041884816754,0,76.23,Strong,Excellent,Declining,Cash flow profile remains stable.
+PNB,Mar 2020,-13131.0,-12793.0,-26.377319587628865,0,6.08,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+PNB,Mar 2021,30163.0,30950.0,11.484230055658626,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+PNB,Mar 2022,18828.0,20032.0,5.12589559877175,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+PNB,Mar 2023,21860.0,22592.0,6.725811253349211,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+PNB,Mar 2024,-29445.0,-27939.0,-3.0511084416293546,0,12.89,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+PNB,TTM,-29445.0,-27939.0,-1.92218782249742,0,13.7,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+POWERGRID,Mar 2013,-10394.0,11690.0,2.7104103872014838,0,84.06,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+POWERGRID,Mar 2014,-11416.0,15223.0,3.3471855760773965,0,83.44,Strong,Excellent,Declining,Cash flow profile remains stable.
+POWERGRID,Mar 2015,-8385.0,15800.0,3.1311930241775663,0,83.17,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+POWERGRID,Mar 2016,-6568.0,15008.0,2.518543379761705,0,83.14,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+POWERGRID,Mar 2017,-2261.0,21575.0,2.895584485303986,0,85.02,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+POWERGRID,Mar 2018,-2991.0,22710.0,2.7681618722574353,0,84.84,Strong,Excellent,Declining,Cash flow profile remains stable.
+POWERGRID,Mar 2019,4544.0,23271.0,2.3192146701215868,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+POWERGRID,Mar 2020,20006.0,30739.0,2.7795460710733337,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+POWERGRID,Mar 2021,20159.0,29403.0,2.442921236291127,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+POWERGRID,Mar 2022,26877.0,26124.0,1.5527817403708988,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+POWERGRID,Mar 2023,33065.0,40203.0,2.6071984435797666,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+POWERGRID,Mar 2024,24176.0,37290.0,2.394528992486997,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+POWERGRID,TTM,24176.0,37290.0,2.373345213849287,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+RECLTD,Mar 2013,-19907.0,-20059.0,-5.233237672841117,0,12.62,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+RECLTD,Mar 2014,-17108.0,-17244.0,-3.6372073402235814,0,13.47,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+RECLTD,Mar 2015,-23747.0,-23898.0,-4.4719311377245505,0,12.07,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+RECLTD,Mar 2016,-14034.0,-13278.0,-2.3331576172904587,0,12.76,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+RECLTD,Mar 2017,6704.0,6805.0,1.0779344210359576,1,85.26,Strong,Good,Improving,Cash flow profile remains stable.
+RECLTD,Mar 2018,-32464.0,-32510.0,-7.303976634464165,0,7.79,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+RECLTD,Mar 2019,-35409.0,-35866.0,-6.247343668350462,0,8.52,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+RECLTD,Mar 2020,-32591.0,-32712.0,-6.579243765084473,0,6.97,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+RECLTD,Mar 2021,-42651.0,-43512.0,-5.1936022917164,0,9.06,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+RECLTD,Mar 2022,-1106.0,-819.0,-0.08160621761658031,0,14.47,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+RECLTD,Mar 2023,-38303.0,-37360.0,-3.3455717739768964,0,10.56,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+RECLTD,Mar 2024,-59554.0,-57723.0,-4.0808059384941675,0,10.7,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+RECLTD,TTM,-59554.0,-57723.0,-3.8779308028216324,0,10.66,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+RELIANCE,Mar 2013,9317.0,36918.0,1.7675955185291583,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+RELIANCE,Mar 2014,-29809.0,43261.0,1.9186180592513749,0,77.93,Strong,Excellent,Declining,Cash flow profile remains stable.
+RELIANCE,Mar 2015,-30332.0,34374.0,1.4540609137055838,0,61.38,Moderate,Excellent,Declining,Cash flow profile remains stable.
+RELIANCE,Mar 2016,1948.0,38134.0,1.2770503332105423,1,89.59,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+RELIANCE,Mar 2017,-16651.0,49550.0,1.6609124124291892,0,69.32,Moderate,Excellent,Declining,Cash flow profile remains stable.
+RELIANCE,Mar 2018,3267.0,71459.0,1.980570953436807,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+RELIANCE,Mar 2019,-52161.0,42346.0,1.0629816502246656,0,46.96,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+RELIANCE,Mar 2020,22380.0,94877.0,2.379062186559679,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+RELIANCE,Mar 2021,-115427.0,26958.0,0.5016468486573996,0,26.11,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+RELIANCE,Mar 2022,1492.0,110654.0,1.6309823863217627,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+RELIANCE,Mar 2023,22031.0,115032.0,1.5526401036605118,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+RELIANCE,Mar 2024,45207.0,158788.0,2.00946595798532,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+RELIANCE,TTM,45207.0,158788.0,1.9863149072440924,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+SBILIFE,Mar 2013,903.0,1130.0,1.7936507936507937,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+SBILIFE,Mar 2014,-542.0,166.0,0.22802197802197802,0,25.66,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SBILIFE,Mar 2015,2533.0,2711.0,3.3263803680981594,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SBILIFE,Mar 2016,-1426.0,5778.0,6.845971563981043,0,88.46,Strong,Excellent,Declining,Cash flow profile remains stable.
+SBILIFE,Mar 2017,-507.0,8525.0,8.926701570680628,0,88.68,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SBILIFE,Mar 2018,1485.0,10395.0,9.039130434782608,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SBILIFE,Mar 2019,-79.0,13473.0,10.152976639035419,0,88.64,Strong,Excellent,Declining,Cash flow profile remains stable.
+SBILIFE,Mar 2020,2313.0,19299.0,13.571729957805907,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SBILIFE,Mar 2021,4675.0,23878.0,16.399725274725274,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SBILIFE,Mar 2022,241.0,21852.0,14.50996015936255,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+SBILIFE,Mar 2023,-1547.0,28656.0,16.650784427658337,0,86.87,Strong,Excellent,Declining,Cash flow profile remains stable.
+SBILIFE,Mar 2024,-2099.0,29122.0,15.375923970432947,0,86.9,Strong,Excellent,Declining,Cash flow profile remains stable.
+SBILIFE,TTM,-2099.0,29122.0,12.078805474906678,0,86.9,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+SBIN,Mar 2013,22061.0,24332.0,1.3113446510374562,1,92.61,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+SBIN,Mar 2014,18351.0,19142.0,1.2927669345579793,1,91.54,Strong,Excellent,Declining,Cash flow profile remains stable.
+SBIN,Mar 2015,22873.0,26297.0,1.4747083894122925,1,98.05,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SBIN,Mar 2016,11730.0,14477.0,1.1119901682156847,1,84.32,Strong,Good,Declining,Cash flow profile remains stable.
+SBIN,Mar 2017,72834.0,77406.0,-798.0,1,43.68,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+SBIN,Mar 2018,-83455.0,-96508.0,25.742331288343557,0,80.11,Strong,Excellent,Declining,Cash flow profile remains stable.
+SBIN,Mar 2019,29776.0,29556.0,8.820053715308863,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SBIN,Mar 2020,23374.0,23929.0,1.1319299905392621,1,85.88,Strong,Good,Declining,Cash flow profile remains stable.
+SBIN,Mar 2021,86249.0,89919.0,3.764191225720027,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SBIN,Mar 2022,55043.0,57695.0,1.5516499475566792,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+SBIN,Mar 2023,-86980.0,-86014.0,-1.4894199134199133,0,9.7,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SBIN,Mar 2024,18156.0,21632.0,0.31105934457817463,1,57.96,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+SBIN,TTM,18156.0,21632.0,0.2905144975221928,1,57.24,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+SHREECEM,Jun 2013,990.0,1260.0,1.254980079681275,1,92.51,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+SHREECEM,Jun 2014,167.0,1401.0,1.7801778907242694,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+SHREECEM,Jun 2015,249.0,1239.0,2.908450704225352,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SHREECEM,Mar 2017,154.0,2202.0,1.6445108289768484,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+SHREECEM,Mar 2018,-1716.0,1879.0,1.3576589595375723,0,61.16,Moderate,Excellent,Declining,Cash flow profile remains stable.
+SHREECEM,Mar 2019,1360.0,2080.0,2.0492610837438425,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SHREECEM,Mar 2020,-1617.0,3973.0,2.573186528497409,0,83.83,Strong,Excellent,Declining,Cash flow profile remains stable.
+SHREECEM,Mar 2021,1603.0,4254.0,1.8202824133504494,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SHREECEM,Mar 2022,525.0,2668.0,2.102442868400315,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+SHREECEM,Mar 2023,164.0,2569.0,1.084423807513719,1,83.36,Strong,Good,Declining,Cash flow profile remains stable.
+SHREECEM,Mar 2024,1929.0,3347.0,1.93133294864397,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SHREECEM,Mar 2016 9m,,,,0,17.34,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+SHREECEM,TTM,1929.0,3347.0,1.93133294864397,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+SHRIRAMFIN,Mar 2013,-8400.0,-8359.0,-5.713602187286398,0,14.34,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+SHRIRAMFIN,Mar 2014,-4167.0,-4055.0,-2.9860088365243005,0,13.64,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+SHRIRAMFIN,Mar 2015,-9656.0,-9611.0,-9.349221789883268,0,10.22,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SHRIRAMFIN,Mar 2016,-5543.0,-5507.0,-4.6511824324324325,0,11.21,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+SHRIRAMFIN,Mar 2017,-2679.0,-2677.0,-2.1145339652448656,0,12.04,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+SHRIRAMFIN,Mar 2018,-13056.0,-13142.0,-5.155747351902707,0,13.0,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SHRIRAMFIN,Mar 2019,-5611.0,-5535.0,-2.1486801242236027,0,13.55,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+SHRIRAMFIN,Mar 2020,-2519.0,-2464.0,-0.9808917197452229,0,13.37,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+SHRIRAMFIN,Mar 2021,-4264.0,-4239.0,-1.6962785114045618,0,12.37,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SHRIRAMFIN,Mar 2022,-8893.0,-8859.0,-3.2557883131201764,0,11.4,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SHRIRAMFIN,Mar 2023,-12549.0,-17625.0,-2.9277408637873754,0,13.02,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SHRIRAMFIN,Mar 2024,-31359.0,-31101.0,-4.203405865657522,0,11.38,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SHRIRAMFIN,TTM,-31359.0,-31101.0,-3.2897186376137086,0,12.86,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+SIEMENS,Sep 2011,267.0,3.0,0.0034562211981566822,1,42.79,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+SIEMENS,Sep 2014,738.0,608.0,1.0082918739635158,1,78.87,Strong,Good,Improving,Cash flow profile remains stable.
+SIEMENS,Sep 2015,1220.0,574.0,0.4889267461669506,1,61.34,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+SIEMENS,Sep 2016,750.0,513.0,0.17604667124227866,1,53.46,Moderate,Weak,Declining,Cash flow profile remains stable.
+SIEMENS,Sep 2017,1894.0,573.0,0.503957783641161,1,63.18,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+SIEMENS,Sep 2018,-74.0,100.0,0.11098779134295228,0,15.61,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SIEMENS,Sep 2019,138.0,1273.0,1.1583257506824385,1,85.2,Strong,Good,Improving,Cash flow profile remains stable.
+SIEMENS,Sep 2020,1591.0,720.0,0.9362808842652796,1,77.01,Strong,Good,Improving,Cash flow profile remains stable.
+SIEMENS,Sep 2021,-967.0,1422.0,1.3057851239669422,0,57.65,Moderate,Excellent,Declining,Cash flow profile remains stable.
+SIEMENS,Sep 2022,944.0,978.0,0.6338302009073234,1,66.18,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+SIEMENS,Sep 2023,641.0,1400.0,0.7135575942915392,1,69.42,Moderate,Weak,Declining,Cash flow profile remains stable.
+SIEMENS,Sep 2024,1168.0,1670.0,0.6144223693892568,1,65.98,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+SUNPHARMA,Mar 2013,982.0,3357.0,0.9677140386278467,1,84.43,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+SUNPHARMA,Mar 2014,1783.0,3959.0,1.0206238721319927,1,86.31,Strong,Good,Improving,Cash flow profile remains stable.
+SUNPHARMA,Mar 2015,4114.0,5616.0,1.0255661066471877,1,86.02,Strong,Good,Improving,Cash flow profile remains stable.
+SUNPHARMA,Mar 2016,2737.0,6686.0,1.1816896429833863,1,90.11,Strong,Good,Declining,Cash flow profile remains stable.
+SUNPHARMA,Mar 2017,2896.0,7082.0,0.9026255416772878,1,82.31,Strong,Good,Improving,Cash flow profile remains stable.
+SUNPHARMA,Mar 2018,803.0,3907.0,1.536978756884343,1,95.08,Strong,Excellent,Declining,Cash flow profile remains stable.
+SUNPHARMA,Mar 2019,1886.0,2196.0,0.6845386533665836,1,65.68,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+SUNPHARMA,Mar 2020,4330.0,6555.0,1.571188878235858,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SUNPHARMA,Mar 2021,6577.0,6170.0,2.715669014084507,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SUNPHARMA,Mar 2022,3429.0,8985.0,2.6512245500147538,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+SUNPHARMA,Mar 2023,-2261.0,4959.0,0.5825208504639963,0,31.76,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+SUNPHARMA,Mar 2024,11372.0,12135.0,1.2627471383975026,1,94.01,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+SUNPHARMA,TTM,11372.0,12135.0,1.091571467122425,1,88.46,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+TATACONSUM,Mar 2013,197.0,173.0,0.3887640449438202,1,49.27,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+TATACONSUM,Mar 2014,421.0,422.0,0.8274509803921568,1,65.69,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+TATACONSUM,Mar 2015,211.0,418.0,1.531135531135531,1,91.54,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATACONSUM,Mar 2016,261.0,116.0,-3.135135135135135,1,35.39,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+TATACONSUM,Mar 2017,886.0,741.0,1.6285714285714286,1,96.99,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATACONSUM,Mar 2018,325.0,356.0,0.6402877697841727,1,59.36,Moderate,Weak,Declining,Cash flow profile remains stable.
+TATACONSUM,Mar 2019,263.0,210.0,0.45951859956236324,1,52.48,Moderate,Weak,Declining,Cash flow profile remains stable.
+TATACONSUM,Mar 2020,460.0,1082.0,2.3521739130434782,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATACONSUM,Mar 2021,1310.0,1656.0,1.7806451612903227,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATACONSUM,Mar 2022,199.0,1516.0,1.4935960591133004,1,91.83,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATACONSUM,Mar 2023,627.0,1461.0,1.106818181818182,1,77.75,Strong,Good,Improving,Cash flow profile remains stable.
+TATACONSUM,Mar 2024,26.0,1937.0,1.594238683127572,1,94.81,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATACONSUM,TTM,26.0,1937.0,1.6555555555555554,1,97.23,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+TATAMOTORS,Mar 2013,-806.0,22163.0,2.2216319165998395,0,80.95,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+TATAMOTORS,Mar 2014,8160.0,36151.0,2.5730249110320287,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAMOTORS,Mar 2015,-701.0,35531.0,2.524763731969019,0,81.46,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATAMOTORS,Mar 2016,1206.0,37900.0,3.2454187360849462,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAMOTORS,Mar 2017,-9372.0,30199.0,3.9961624983459045,0,77.25,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATAMOTORS,Mar 2018,-1282.0,23857.0,2.6242437575624242,0,78.37,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAMOTORS,Mar 2019,-1987.0,18891.0,-0.6576730260409414,0,1.45,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TATAMOTORS,Mar 2020,-6482.0,26633.0,-2.2240501043841334,0,0.9,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TATAMOTORS,Mar 2021,3329.0,29001.0,-2.1650615901455765,1,37.79,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+TATAMOTORS,Mar 2022,9839.0,14283.0,-1.262976390485454,1,37.93,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+TATAMOTORS,Mar 2023,19971.0,35388.0,13.155390334572491,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAMOTORS,Mar 2024,45133.0,67915.0,2.135221806520577,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAMOTORS,TTM,45133.0,67915.0,2.0083688194937306,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+TATAPOWER,Mar 2013,-740.0,3286.0,26.715447154471544,0,80.09,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+TATAPOWER,Mar 2014,2874.0,6483.0,540.25,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAPOWER,Mar 2015,2116.0,5981.0,13.087527352297593,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATAPOWER,Mar 2016,5610.0,7415.0,9.43384223918575,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAPOWER,Mar 2017,-359.0,7014.0,6.376363636363636,0,80.86,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATAPOWER,Mar 2018,4852.0,6364.0,2.4373803140559174,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAPOWER,Mar 2019,4302.0,4574.0,1.7551803530314658,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATAPOWER,Mar 2020,6882.0,7375.0,5.604103343465046,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAPOWER,Mar 2021,9338.0,8345.0,5.799166087560806,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAPOWER,Mar 2022,443.0,6693.0,3.104359925788497,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATAPOWER,Mar 2023,-97.0,7166.0,1.8808398950131233,0,77.91,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATAPOWER,Mar 2024,3569.0,12596.0,2.9429906542056075,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATAPOWER,TTM,3569.0,12596.0,2.8607767431296844,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+TATASTEEL,Mar 2013,936.0,14035.0,-1.930005500550055,1,34.67,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+TATASTEEL,Mar 2014,-2232.0,13146.0,3.5869031377899043,0,77.45,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATASTEEL,Mar 2015,2859.0,11880.0,-3.015993907083016,1,35.32,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+TATASTEEL,Mar 2016,2661.0,11455.0,-23.048289738430583,1,35.28,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TATASTEEL,Mar 2017,1334.0,10824.0,-2.5963060686015833,1,34.8,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TATASTEEL,Mar 2018,-3707.0,8023.0,0.4521783238460238,0,26.64,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TATASTEEL,Mar 2019,-3840.0,25336.0,2.777461083095812,0,78.66,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATASTEEL,Mar 2020,6157.0,20169.0,17.179727427597957,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATASTEEL,Mar 2021,34890.0,44327.0,5.412332112332113,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TATASTEEL,Mar 2022,33476.0,44381.0,1.063043426189849,1,89.44,Strong,Good,Declining,Cash flow profile remains stable.
+TATASTEEL,Mar 2023,3504.0,21683.0,2.6852012383900927,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+TATASTEEL,Mar 2024,6048.0,20301.0,-4.134623217922607,1,37.98,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+TATASTEEL,TTM,6048.0,20301.0,8.033636723387415,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+TCS,Mar 2013,5577.0,11615.0,0.8251633986928104,1,80.47,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+TCS,Mar 2014,5299.0,14751.0,0.7630353817504656,1,79.36,Strong,Weak,Declining,Cash flow profile remains stable.
+TCS,Mar 2015,17562.0,19369.0,0.9655533399800598,1,89.15,Strong,Good,Improving,Cash flow profile remains stable.
+TCS,Mar 2016,14099.0,19109.0,0.785150792998603,1,80.07,Strong,Weak,Declining,Cash flow profile remains stable.
+TCS,Mar 2017,8328.0,25223.0,0.9569753765603065,1,84.12,Strong,Good,Declining,Cash flow profile remains stable.
+TCS,Mar 2018,28171.0,25067.0,0.9685857805255024,1,87.95,Strong,Good,Improving,Cash flow profile remains stable.
+TCS,Mar 2019,30238.0,28593.0,0.9059311830682466,1,86.74,Strong,Good,Improving,Cash flow profile remains stable.
+TCS,Mar 2020,41337.0,32369.0,0.9975960797608407,1,87.69,Strong,Good,Improving,Cash flow profile remains stable.
+TCS,Mar 2021,30846.0,38802.0,1.191634420490142,1,95.85,Strong,Good,Declining,Cash flow profile remains stable.
+TCS,Mar 2022,39211.0,39949.0,1.0390127181461157,1,90.35,Strong,Good,Improving,Cash flow profile remains stable.
+TCS,Mar 2023,42513.0,41965.0,0.9920100229298159,1,88.07,Strong,Good,Improving,Cash flow profile remains stable.
+TCS,Mar 2024,50429.0,44338.0,0.9617996051975097,1,86.91,Strong,Good,Improving,Cash flow profile remains stable.
+TCS,TTM,50429.0,44338.0,0.9047463575888667,1,84.7,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+TECHM,Mar 2013,233.0,855.0,0.6541698546289212,1,61.69,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+TECHM,Mar 2014,1887.0,1596.0,0.5212279555845852,1,63.78,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+TECHM,Mar 2015,583.0,2448.0,0.9206468597216999,1,71.98,Moderate,Good,Declining,Cash flow profile remains stable.
+TECHM,Mar 2016,1684.0,3137.0,1.0363396101750908,1,75.43,Strong,Good,Improving,Cash flow profile remains stable.
+TECHM,Mar 2017,1178.0,4071.0,1.4279200280603297,1,89.6,Strong,Excellent,Declining,Cash flow profile remains stable.
+TECHM,Mar 2018,235.0,3554.0,0.9387216059165346,1,69.23,Moderate,Good,Declining,Cash flow profile remains stable.
+TECHM,Mar 2019,2328.0,4432.0,1.0333411051527162,1,75.1,Strong,Good,Improving,Cash flow profile remains stable.
+TECHM,Mar 2020,5439.0,4358.0,1.1182961252245316,1,77.1,Strong,Good,Improving,Cash flow profile remains stable.
+TECHM,Mar 2021,2661.0,8094.0,1.859407305306685,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+TECHM,Mar 2022,5765.0,5285.0,0.9387211367673179,1,71.99,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+TECHM,Mar 2023,5346.0,5572.0,1.1472102120650607,1,79.12,Strong,Good,Declining,Cash flow profile remains stable.
+TECHM,Mar 2024,5058.0,6376.0,2.6599916562369628,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+TECHM,TTM,5058.0,6376.0,1.6890066225165563,1,99.72,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+TITAN,Mar 2013,411.0,553.0,0.7627586206896552,1,76.12,Strong,Weak,Stable,Cash flow remains consistently strong with stable operating performance.
+TITAN,Mar 2014,-826.0,-555.0,-0.7551020408163265,0,12.79,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TITAN,Mar 2015,385.0,503.0,0.616421568627451,1,68.65,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+TITAN,Mar 2016,417.0,576.0,0.8533333333333334,1,75.77,Strong,Good,Improving,Cash flow profile remains stable.
+TITAN,Mar 2017,759.0,1712.0,2.456241032998565,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TITAN,Mar 2018,47.0,-51.0,-0.04627949183303085,1,44.57,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TITAN,Mar 2019,446.0,1243.0,0.8948884089272858,1,77.55,Strong,Good,Improving,Cash flow profile remains stable.
+TITAN,Mar 2020,-113.0,-348.0,-0.23308774279973207,0,12.07,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TITAN,Mar 2021,1340.0,4139.0,4.249486652977413,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TITAN,Mar 2022,441.0,-724.0,-0.3293903548680619,1,44.04,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TITAN,Mar 2023,-444.0,1370.0,0.4184483811850947,0,27.79,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TITAN,Mar 2024,1506.0,1695.0,0.4848398169336384,1,63.34,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+TITAN,TTM,1506.0,1695.0,0.5226641998149861,1,63.35,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+TORNTPHARM,Mar 2013,-94.0,153.0,0.35172413793103446,0,25.37,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+TORNTPHARM,Mar 2014,181.0,599.0,0.9021084337349398,1,77.1,Strong,Good,Improving,Cash flow profile remains stable.
+TORNTPHARM,Mar 2015,-1303.0,810.0,1.0785619174434087,0,49.07,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+TORNTPHARM,Mar 2016,1873.0,2742.0,1.5822273514137335,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TORNTPHARM,Mar 2017,211.0,1009.0,1.0802997858672376,1,82.07,Strong,Good,Declining,Cash flow profile remains stable.
+TORNTPHARM,Mar 2018,-3783.0,894.0,1.3185840707964602,0,53.65,Moderate,Excellent,Declining,Cash flow profile remains stable.
+TORNTPHARM,Mar 2019,1552.0,1798.0,4.123853211009174,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TORNTPHARM,Mar 2020,1622.0,1393.0,1.3590243902439025,1,92.58,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TORNTPHARM,Mar 2021,1561.0,2005.0,1.601437699680511,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+TORNTPHARM,Mar 2022,1607.0,1803.0,2.3204633204633205,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TORNTPHARM,Mar 2023,33.0,2368.0,1.902008032128514,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+TORNTPHARM,Mar 2024,3106.0,3266.0,1.9722222222222223,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TORNTPHARM,TTM,3106.0,3266.0,1.7540279269602579,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+TRENT,Mar 2013,-245.0,31.0,-1.1481481481481481,0,8.41,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+TRENT,Mar 2014,-94.0,-46.0,2.4210526315789473,0,81.8,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TRENT,Mar 2015,-316.0,-10.0,-0.07751937984496124,0,10.64,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TRENT,Mar 2016,11.0,109.0,1.981818181818182,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TRENT,Mar 2017,58.0,102.0,1.2,1,85.29,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TRENT,Mar 2018,73.0,77.0,0.8850574712643678,1,73.78,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+TRENT,Mar 2019,-16.0,21.0,0.22105263157894736,0,17.75,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TRENT,Mar 2020,-448.0,361.0,3.4056603773584904,0,82.6,Strong,Excellent,Declining,Cash flow profile remains stable.
+TRENT,Mar 2021,303.0,285.0,-1.574585635359116,1,40.97,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+TRENT,Mar 2022,114.0,58.0,1.6571428571428573,1,97.99,Strong,Excellent,Declining,Cash flow profile remains stable.
+TRENT,Mar 2023,492.0,595.0,1.5101522842639594,1,95.84,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TRENT,Mar 2024,841.0,1349.0,0.913337846987136,1,82.31,Strong,Good,Improving,Cash flow profile remains stable.
+TRENT,TTM,841.0,1349.0,0.7457158651188502,1,76.58,Strong,Weak,Stable,Cash flow remains consistently strong with stable operating performance.
+TVSMOTOR,Mar 2013,344.0,464.0,2.3434343434343434,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+TVSMOTOR,Mar 2014,235.0,470.0,2.513368983957219,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+TVSMOTOR,Mar 2015,-332.0,83.0,0.2530487804878049,0,21.6,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TVSMOTOR,Mar 2016,331.0,936.0,2.1818181818181817,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TVSMOTOR,Mar 2017,-20.0,689.0,1.3536345776031433,0,62.12,Moderate,Excellent,Declining,Cash flow profile remains stable.
+TVSMOTOR,Mar 2018,-741.0,354.0,0.5323308270676692,0,29.4,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TVSMOTOR,Mar 2019,-2022.0,-918.0,-1.2662068965517241,0,8.1,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TVSMOTOR,Mar 2020,-717.0,373.0,0.5765069551777434,0,30.0,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+TVSMOTOR,Mar 2021,269.0,1151.0,1.893092105263158,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+TVSMOTOR,Mar 2022,-3046.0,-1575.0,-2.1545827633378933,0,6.61,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TVSMOTOR,Mar 2023,-5713.0,-4405.0,-3.3651642475171886,0,8.05,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+TVSMOTOR,Mar 2024,-2254.0,-1253.0,-0.7043282743114109,0,8.63,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+TVSMOTOR,TTM,-2254.0,-1253.0,-0.5983763132760267,0,9.03,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+ULTRACEMCO,Mar 2013,-744.0,3618.0,1.3459821428571428,0,65.98,Moderate,Excellent,Stable,Cash generation is stable with acceptable cash conversion.
+ULTRACEMCO,Mar 2014,1113.0,3455.0,1.561229100768188,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ULTRACEMCO,Mar 2015,2046.0,4190.0,1.9933396764985727,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ULTRACEMCO,Mar 2016,853.0,4526.0,1.825,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ULTRACEMCO,Mar 2017,2504.0,5005.0,1.844141488577745,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ULTRACEMCO,Mar 2018,5754.0,3888.0,1.7482014388489209,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ULTRACEMCO,Mar 2019,7121.0,5956.0,2.4816666666666665,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ULTRACEMCO,Mar 2020,4780.0,8972.0,1.560076508433316,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ULTRACEMCO,Mar 2021,3644.0,12500.0,2.288538996704504,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ULTRACEMCO,Mar 2022,11540.0,9283.0,1.2657485683119716,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ULTRACEMCO,Mar 2023,1881.0,9069.0,1.787699586043761,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+ULTRACEMCO,Mar 2024,2109.0,10898.0,1.5559680182752713,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ULTRACEMCO,TTM,2109.0,10898.0,1.7431222008957135,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+UNIONBANK,Mar 2013,-4588.0,-4245.0,-1.978098788443616,0,17.12,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+UNIONBANK,Mar 2014,2207.0,2570.0,1.5234143449911084,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+UNIONBANK,Mar 2015,-3885.0,-3567.0,-2.0141163184641444,0,14.28,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+UNIONBANK,Mar 2016,72.0,81.0,0.060133630289532294,1,49.52,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+UNIONBANK,Mar 2017,-6904.0,-6624.0,-11.56020942408377,0,10.09,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+UNIONBANK,Mar 2018,5782.0,6097.0,-1.169800460475825,1,38.11,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+UNIONBANK,Mar 2019,-8075.0,-7778.0,2.6618754277891856,0,75.91,Strong,Excellent,Declining,Cash flow profile remains stable.
+UNIONBANK,Mar 2020,-81.0,-77.0,0.024671579621916052,0,9.06,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+UNIONBANK,Mar 2021,19926.0,20527.0,7.169752008382815,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+UNIONBANK,Mar 2022,35781.0,36339.0,6.901994301994302,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+UNIONBANK,Mar 2023,3495.0,6056.0,0.7114661654135338,1,77.69,Strong,Weak,Declining,Cash flow profile remains stable.
+UNIONBANK,Mar 2024,18536.0,19930.0,1.4445169239689788,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+UNIONBANK,TTM,18536.0,19930.0,1.2194077337249143,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+UNITDSPR,Mar 2013,848.0,1969.0,-18.752380952380953,1,40.33,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+UNITDSPR,Mar 2014,-804.0,-552.0,0.12296725328580976,0,12.18,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+UNITDSPR,Mar 2015,3659.0,-196.0,0.11618257261410789,1,46.38,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+UNITDSPR,Mar 2016,1016.0,283.0,1.979020979020979,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+UNITDSPR,Mar 2017,420.0,647.0,6.956989247311828,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+UNITDSPR,Mar 2018,1029.0,925.0,1.4187116564417177,1,93.18,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+UNITDSPR,Mar 2019,882.0,948.0,1.3859649122807018,1,91.81,Strong,Excellent,Declining,Cash flow profile remains stable.
+UNITDSPR,Mar 2020,589.0,783.0,1.2608695652173914,1,86.78,Strong,Excellent,Declining,Cash flow profile remains stable.
+UNITDSPR,Mar 2021,1719.0,1818.0,5.0220994475138125,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+UNITDSPR,Mar 2022,664.0,977.0,1.2046855733662145,1,85.04,Strong,Excellent,Declining,Cash flow profile remains stable.
+UNITDSPR,Mar 2023,560.0,615.0,0.5461811722912966,1,60.6,Moderate,Weak,Declining,Cash flow profile remains stable.
+UNITDSPR,Mar 2024,1344.0,1118.0,0.7940340909090909,1,70.74,Moderate,Weak,Improving,"Cash generation is improving, although there is still room for stronger quality."
+UNITDSPR,TTM,1344.0,1118.0,0.797432239657632,1,68.85,Moderate,Weak,Stable,Cash generation is stable with acceptable cash conversion.
+VBL,Dec 2012,-227.0,280.0,11.2,0,86.59,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+VBL,Dec 2013,-277.0,297.0,-7.425,0,13.12,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+VBL,Dec 2014,-69.0,431.0,-21.55,0,13.14,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+VBL,Dec 2015,255.0,555.0,4.911504424778761,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+VBL,Dec 2016,-222.0,826.0,17.208333333333332,0,86.59,Strong,Excellent,Declining,Cash flow profile remains stable.
+VBL,Dec 2017,-126.0,620.0,2.897196261682243,0,87.02,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+VBL,Dec 2018,63.0,1000.0,3.3333333333333335,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+VBL,Dec 2019,-1012.0,1308.0,2.7711864406779663,0,87.23,Strong,Excellent,Declining,Cash flow profile remains stable.
+VBL,Dec 2020,540.0,1012.0,2.834733893557423,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+VBL,Dec 2021,223.0,1231.0,1.6501340482573728,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+VBL,Dec 2022,21.0,1790.0,1.1548387096774193,1,88.49,Strong,Good,Declining,Cash flow profile remains stable.
+VBL,Dec 2023,-897.0,2391.0,1.137488106565176,0,56.17,Moderate,Good,Declining,Cash flow profile remains stable.
+VBL,TTM,-897.0,2391.0,0.9260263361735089,0,48.25,Weak,Good,Stable,Weak cash generation with below-average cash conversion.
+VEDL,Mar 2013,-289.0,22.0,0.009649122807017544,0,14.93,Weak,Weak,Stable,Weak cash generation with below-average cash conversion.
+VEDL,Mar 2014,12711.0,15601.0,1.3659924700113826,1,96.4,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+VEDL,Mar 2015,13672.0,17805.0,-1.5661008004222008,1,41.7,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+VEDL,Mar 2016,12509.0,20377.0,-1.140801701937073,1,41.71,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+VEDL,Mar 2017,20764.0,18083.0,1.5980028278543654,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+VEDL,Mar 2018,32846.0,17366.0,1.268331872626351,1,98.43,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+VEDL,Mar 2019,13160.0,23754.0,2.4493710043307897,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+VEDL,Mar 2020,13375.0,19300.0,-4.068296795952782,1,42.68,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+VEDL,Mar 2021,17302.0,23980.0,1.5952634379989357,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+VEDL,Mar 2022,32720.0,34963.0,1.4746098692534795,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+VEDL,Mar 2023,32397.0,33065.0,2.279873129697304,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+VEDL,Mar 2024,21978.0,35654.0,4.729274439580847,1,100.0,Strong,Excellent,Declining,Cash flow profile remains stable.
+VEDL,TTM,21978.0,35654.0,2.2507417461018875,1,100.0,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+WIPRO,Mar 2013,1858.0,6394.0,1.034293109026205,1,77.63,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+WIPRO,Mar 2014,6506.0,6790.0,0.8497059191590539,1,71.86,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+WIPRO,Mar 2015,5303.0,7840.0,0.8997016295616249,1,73.7,Moderate,Good,Declining,Cash flow profile remains stable.
+WIPRO,Mar 2016,-5874.0,7887.0,0.8805403594953668,0,39.6,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+WIPRO,Mar 2017,-2493.0,9277.0,1.0891054238084057,0,47.28,Weak,Good,Improving,Weak cash generation with below-average cash conversion.
+WIPRO,Mar 2018,12018.0,8423.0,1.052480319880045,1,79.9,Strong,Good,Improving,Cash flow profile remains stable.
+WIPRO,Mar 2019,16697.0,11632.0,1.2898647150144156,1,90.8,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+WIPRO,Mar 2020,13657.0,10064.0,1.0298812934916086,1,79.83,Strong,Good,Declining,Cash flow profile remains stable.
+WIPRO,Mar 2021,15440.0,14755.0,1.3576555023923444,1,94.16,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+WIPRO,Mar 2022,-11241.0,11080.0,0.9050069427427918,0,39.88,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+WIPRO,Mar 2023,4891.0,13060.0,1.1490409994721098,1,81.45,Strong,Good,Improving,Cash flow profile remains stable.
+WIPRO,Mar 2024,18766.0,17622.0,1.58585313174946,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+WIPRO,TTM,18766.0,17622.0,1.41111467008328,1,89.42,Strong,Excellent,Stable,Cash flow remains consistently strong with stable operating performance.
+ZOMATO,Mar 2018,,,,0,15.73,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+ZOMATO,Mar 2019,,,,0,15.73,Weak,Unknown,Stable,Weak cash generation with below-average cash conversion.
+ZOMATO,Mar 2020,-404.0,-2144.0,0.8985750209555742,0,46.07,Weak,Good,Stable,Weak cash generation with below-average cash conversion.
+ZOMATO,Mar 2021,-6263.0,-1018.0,1.2475490196078431,0,56.99,Moderate,Excellent,Declining,Cash flow profile remains stable.
+ZOMATO,Mar 2022,-8664.0,-693.0,0.5671031096563012,0,32.36,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ZOMATO,Mar 2023,-47.0,-844.0,0.8692070030895983,0,45.33,Weak,Good,Improving,Weak cash generation with below-average cash conversion.
+ZOMATO,Mar 2024,298.0,646.0,1.8404558404558404,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ZOMATO,TTM,298.0,646.0,0.9743589743589743,1,79.23,Strong,Good,Stable,Cash flow remains consistently strong with stable operating performance.
+ZYDUSLIFE,Mar 2013,-79.0,603.0,0.8739130434782608,0,42.88,Weak,Good,Stable,Weak cash generation with below-average cash conversion.
+ZYDUSLIFE,Mar 2014,465.0,903.0,1.0801435406698565,1,83.3,Strong,Good,Improving,Cash flow profile remains stable.
+ZYDUSLIFE,Mar 2015,529.0,994.0,0.8367003367003367,1,74.83,Moderate,Good,Improving,"Cash generation is improving, although there is still room for stronger quality."
+ZYDUSLIFE,Mar 2016,1034.0,1894.0,0.9643584521384929,1,81.67,Strong,Good,Improving,Cash flow profile remains stable.
+ZYDUSLIFE,Mar 2017,-1560.0,1312.0,0.8648648648648649,0,43.34,Weak,Good,Declining,Cash generation is deteriorating and requires attention.
+ZYDUSLIFE,Mar 2018,-55.0,919.0,0.5077348066298343,0,30.68,Weak,Weak,Improving,Weak cash generation with below-average cash conversion.
+ZYDUSLIFE,Mar 2019,-2695.0,1282.0,0.6750921537651395,0,35.96,Weak,Weak,Declining,Cash generation is deteriorating and requires attention.
+ZYDUSLIFE,Mar 2020,1928.0,2932.0,2.435215946843854,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ZYDUSLIFE,Mar 2021,2457.0,3294.0,1.5075514874141875,1,100.0,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ZYDUSLIFE,Mar 2022,1086.0,2104.0,0.4556084885231702,1,64.36,Moderate,Weak,Declining,Cash flow profile remains stable.
+ZYDUSLIFE,Mar 2023,4231.0,2689.0,1.2853728489483747,1,95.14,Strong,Excellent,Improving,Strong cash generation with improving free cash flow and excellent cash conversion.
+ZYDUSLIFE,Mar 2024,1736.0,3228.0,0.8124842688144979,1,77.16,Strong,Good,Declining,Cash flow profile remains stable.
+ZYDUSLIFE,TTM,1736.0,3228.0,0.7271908087407074,1,76.21,Strong,Weak,Stable,Cash flow remains consistently strong with stable operating performance.

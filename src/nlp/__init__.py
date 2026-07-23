@@ -1,0 +1,1 @@
+"""Rule-based narrative intelligence."""

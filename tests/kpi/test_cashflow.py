@@ -6,8 +6,6 @@ from src.analytics.cashflow_kpis import (
     classify_pattern
 )
 
-
-
 # Free Cash Flow
 
 def test_free_cash_flow():
@@ -16,8 +14,6 @@ def test_free_cash_flow():
     investing = -40
 
     assert operating + investing == 60
-
-
 
 # CFO Quality
 
@@ -51,8 +47,6 @@ def test_capex_moderate():
 def test_capex_capital_intensive():
 
     assert capex_label(12.2) == "Capital Intensive"
-
-
 
 # FCF Conversion
 
@@ -156,3 +150,4 @@ def test_pattern_mixed():
     })
 
     assert classify_pattern(row) == "Mixed"
+
